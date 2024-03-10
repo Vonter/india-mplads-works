@@ -1,0 +1,449 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER FARIDKOT_IDA</td><td>Kot Kapura</td><td>4</td><td>KOT KAPURA</td><td>Kot Kapura (129)</td><td>27 Jun 2023</td><td>1700000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>22</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>5000000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/5987 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AMRITSAR_IDA</td><td>Amritsar</td><td>25</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>5000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/6002 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>49</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>1200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI Sanjeev Arora</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>67</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/6019 - Retrofitting, preservation or conservation of heritage and archaeological monuments and buildings</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>RAIKOT</td><td>Bassian (162)</td><td>24 Jul 2023</td><td>2000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/6020 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>83</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>2500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/6021 - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>Hoshiarpur</td><td>7</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>971000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>Hoshiarpur</td><td>7</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>999659</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER ROOPNAGAR_IDA</td><td>NA</td><td>NA</td><td>ANANDPUR SAHIB</td><td>Buraj (363)</td><td>25 Jul 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SANGRUR_IDA</td><td>Sangrur</td><td>8</td><td>NA</td><td>NA</td><td>01 Aug 2023</td><td>2500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/7368 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>74</td><td>NA</td><td>NA</td><td>01 Aug 2023</td><td>10000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>82</td><td>NA</td><td>NA</td><td>01 Aug 2023</td><td>3000000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/7438 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>GARHSHANKAR</td><td>Simbli (159)</td><td>02 Aug 2023</td><td>7629550</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/7453 - Purchase of motor boats for flood and cyclone prone areas</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER GURDASPUR_IDA</td><td>NA</td><td>NA</td><td>DINANAGAR</td><td>Toor (8)</td><td>02 Aug 2023</td><td>789737</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8249 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>390000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8254 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>390000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8257 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>BARNALA</td><td>Karamgarh (48)</td><td>07 Aug 2023</td><td>400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8258 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>BARNALA</td><td>Khudi Kalan (57)</td><td>07 Aug 2023</td><td>400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8259 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>BARNALA</td><td>Badbar (69)</td><td>07 Aug 2023</td><td>400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8260 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>BARNALA</td><td>Harigarh (54)</td><td>07 Aug 2023</td><td>400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8261 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>NA</td><td>NA</td><td>BARNALA</td><td>Rajgarh (60)</td><td>07 Aug 2023</td><td>350000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/8267 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARNALA_IDA</td><td>Dhanaula</td><td>8</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/8583 - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>Sultanpur Lodhi</td><td>12</td><td>NA</td><td>NA</td><td>09 Aug 2023</td><td>900000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/8584 - Purchase of ambulances (Four, three and two wheelers)</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>Sultanpur Lodhi</td><td>12</td><td>NA</td><td>NA</td><td>09 Aug 2023</td><td>2500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/8586 - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Tarn Taran_IDA</td><td>NA</td><td>NA</td><td>KHADUR-SAHIB-10</td><td>Goindwal (338)</td><td>09 Aug 2023</td><td>578200</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/8587 - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>SULTANPUR LODHI</td><td>Sherpur Dona (13)</td><td>09 Aug 2023</td><td>700000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/10829 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>LUDHIANA-1</td><td>Sangowal (257)</td><td>18 Aug 2023</td><td>3289000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/10866 - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>54</td><td>NA</td><td>NA</td><td>18 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/14503 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>SIDHWAN BET</td><td>Sidhwan Bet (28)</td><td>31 Aug 2023</td><td>2500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15148 - Construction of rooms and halls in school and colleges</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>JALANDHAR-EAST</td><td>Raipur (240)</td><td>02 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15149 - Construction of public toilets and bathrooms</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Alewali (74)</td><td>02 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15150 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NURMAHAL</td><td>Talwan (93)</td><td>02 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15151 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NURMAHAL</td><td>Umarpur (98)</td><td>02 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15241 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Awan Chaharmi (141)</td><td>02 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15243 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Addi (160)</td><td>02 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15250 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Shahpur (162)</td><td>02 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/15350 - Construction of veterinary hospitals and dispensaries</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>Sultanpur Lodhi</td><td>1</td><td>NA</td><td>NA</td><td>02 Sep 2023</td><td>715000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/16852 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>Sultanpur Lodhi</td><td>12</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>997000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/16854 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>KAPURTHALA</td><td>Baler Khanpur (209)</td><td>06 Sep 2023</td><td>336300</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/16863 - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>KAPURTHALA</td><td>Baler Khanpur (209)</td><td>06 Sep 2023</td><td>990000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/17140 - Setting up of community effluent treatment plants</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>SULTANPUR LODHI</td><td>Dalla (21)</td><td>06 Sep 2023</td><td>1500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>WS/MP844/2023-2024/17502 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SAHIBZADA AJIT SINGH NAGAR MOHALI_IDA</td><td>NA</td><td>NA</td><td>MAJRI</td><td>Khizarabad (322)</td><td>07 Sep 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>WS/MP844/2023-2024/19897 - Retrofitting, preservation or conservation of heritage and archaeological monuments and buildings</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER FIROZEPUR_IDA</td><td>Firozpur</td><td>1</td><td>NA</td><td>NA</td><td>14 Sep 2023</td><td>5000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/21975 - Construction of rooms and halls in school and colleges</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>SULTANPUR LODHI</td><td>Jabbowal (147)</td><td>17 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>MACHHIWARA</td><td>Machhiwara Kham (278)</td><td>27 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PATIALA_IDA</td><td>Patiala</td><td>50</td><td>NA</td><td>NA</td><td>27 Sep 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>SHRI Sanjeev Arora</td><td>NA - Purchase of medical equipment under MPLAD Scheme for Mohandai Oswal Cancer Hospital, Ludhiana</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>22</td><td>NA</td><td>NA</td><td>05 Oct 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/34273 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Chak Chela (186)</td><td>08 Oct 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Shri Sant Balbir Singh</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>JALANDHAR-EAST</td><td>Nauli (180)</td><td>08 Oct 2023</td><td>600000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/35192 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>Lohian Khas</td><td>1</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>336300</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/35193 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>Mehatpur</td><td>5</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>336500</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/35194 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>Shahkot</td><td>6</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>336400</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>Jalandhar</td><td>6</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/35841 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Kang Kalan(237)</td><td>11 Oct 2023</td><td>336600</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/35860 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Kotha (202)</td><td>11 Oct 2023</td><td>336400</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/35868 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Maharajwala (233)</td><td>11 Oct 2023</td><td>336500</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Purchase of training equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SAHIBZADA AJIT SINGH NAGAR MOHALI_IDA</td><td>NA</td><td>NA</td><td>MAJRI</td><td>Manakpur Sharif (330)</td><td>13 Oct 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SAHIBZADA AJIT SINGH NAGAR MOHALI_IDA</td><td>NA</td><td>NA</td><td>MAJRI</td><td>Manakpur Sharif (330)</td><td>13 Oct 2023</td><td>1386000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SAHIBZADA AJIT SINGH NAGAR MOHALI_IDA</td><td>NA</td><td>NA</td><td>MAJRI</td><td>Manakpur Sharif (330)</td><td>13 Oct 2023</td><td>730000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/38348 - Lighting of public spaces</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>SUDHAR</td><td>Sudhar (90)</td><td>18 Oct 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/38350 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>SUDHAR</td><td>Sudhar (90)</td><td>18 Oct 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/38486 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Kakar Kalan (245)</td><td>19 Oct 2023</td><td>336800</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/38691 - Setting up of community effluent treatment plants</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>JALANDHAR - WEST</td><td>Kartarpur (Rural) (370)</td><td>19 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/39816 - Renovation of ponds and lakes</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Moga_IDA</td><td>NA</td><td>NA</td><td>NIHAL SINGH WALA</td><td>Bilaspur (170)</td><td>23 Oct 2023</td><td>1000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Shri Sant Balbir Singh</td><td>NA - Renovation of ponds and lakes</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>SULTANPUR LODHI</td><td>Dalla (21)</td><td>23 Oct 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Shri Sant Balbir Singh</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Kakar Kalan (245)</td><td>05 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45850 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Nasirpur (210)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45851 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>LOHIAN</td><td>Nahl (206)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Shri Sant Balbir Singh</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>SHAHKOT</td><td>Mulewal Brahmana (95)</td><td>05 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45867 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>MEHATPUR</td><td>Lohgarh (327)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45868 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>MEHATPUR</td><td>Mandiala (56)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45869 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>MEHATPUR</td><td>Adraman (348)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45870 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>MEHATPUR</td><td>Baloki (316)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/45871 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>Mehatpur</td><td>6</td><td>NA</td><td>NA</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>NA</td><td>NA</td><td>SULTANPUR LODHI</td><td>Dadwindi (32)</td><td>05 Nov 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Sianiwal (25)</td><td>07 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47105 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Sahariwal (69)</td><td>07 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47119 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Singhpur (143)</td><td>07 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47126 - Street lights</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Sidhwan (43)</td><td>07 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Sehowal (126)</td><td>07 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Saidupur (136)</td><td>07 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47141 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Haer (135)</td><td>07 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Kang Sahibrai (151)</td><td>07 Nov 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Talwandi Salem (158)</td><td>07 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47166 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>NAKODAR</td><td>Bir Pind (36)</td><td>07 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47316 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>SAMRALA</td><td>Salodi (169)</td><td>08 Nov 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47330 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>DORAHA</td><td>Mahpur (190)</td><td>08 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47333 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>DORAHA</td><td>Mahpur (190)</td><td>08 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>LUDHIANA-2</td><td>Tajpur (182)</td><td>08 Nov 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>SHRI Sanjeev Arora</td><td>WS/MP142/2023-2024/47351 - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PATIALA_IDA</td><td>Patiala</td><td>50</td><td>NA</td><td>NA</td><td>08 Nov 2023</td><td>2500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>MACHHIWARA</td><td>Machhiwara Kham (278)</td><td>08 Nov 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>SHAHKOT</td><td>Dharmiwal (293)</td><td>16 Nov 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>SHAHKOT</td><td>Kotla Surajmal (77)</td><td>08 Dec 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>SHAHKOT</td><td>Kotli Gazran (85)</td><td>08 Dec 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>SHAHKOT</td><td>Khurampur (114)</td><td>08 Dec 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>Jalandhar</td><td>6</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>660000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of buildings for sports facilities</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SANGRUR_IDA</td><td>Sangrur</td><td>16</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>Deputy commissioner mansa_IDA</td><td>NA</td><td>NA</td><td>Budhlada</td><td>Bachhoana (220)</td><td>27 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>SHRI Sanjeev Arora</td><td>NA - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>Deputy commissioner mansa_IDA</td><td>NA</td><td>NA</td><td>Budhlada</td><td>Hakamwala (136)</td><td>28 Dec 2023</td><td>2575000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Nakodar</td><td>Sarai Kham (124)</td><td>30 Dec 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Shahkot</td><td>Kohar Kalan (257)</td><td>30 Dec 2023</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Shri Sant Balbir Singh</td><td>WS/MP140/2023-2024/71706 - Construction of water tanks</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Shahkot</td><td>Sabuwal (196)</td><td>30 Dec 2023</td><td>336300</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PATIALA_IDA</td><td>NA</td><td>NA</td><td>Patiala</td><td>Sidhuwal (36) (Part)</td><td>04 Jan 2024</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>1</td><td>NA</td><td>NA</td><td>08 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>83</td><td>NA</td><td>NA</td><td>08 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>1</td><td>NA</td><td>NA</td><td>08 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>Ludhiana</td><td>89</td><td>NA</td><td>NA</td><td>08 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PATIALA_IDA</td><td>Patiala</td><td>ranjit Nagar</td><td>NA</td><td>NA</td><td>08 Jan 2024</td><td>9000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - I</td><td>Jandiali (242)</td><td>08 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Shri Sant Balbir Singh</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SANGRUR_IDA</td><td>NA</td><td>NA</td><td>Bhawanigarh</td><td>Batriana (106)</td><td>09 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Shri Sant Balbir Singh</td><td>NA - Creation of new ponds</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SANGRUR_IDA</td><td>NA</td><td>NA</td><td>Bhawanigarh</td><td>Bhatiwal Kalan (53)</td><td>09 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAPURTHALA_IDA</td><td>Kapurthala</td><td>5</td><td>NA</td><td>NA</td><td>09 Jan 2024</td><td>1640000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Shri Sant Balbir Singh</td><td>NA - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Nakodar</td><td>Sarih (15)</td><td>09 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Ghugg (385)</td><td>12 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Basrampur (391)</td><td>12 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Brahampur (387)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Randhawa Masandan (156)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>SHRI Harbhajan Singh</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Fateh Jalal (392)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Gill (410)</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Naugajja (152)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Chhotapind Alias Barapind (367)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Chhotapind Alias Barapind (367)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>SHRI Harbhajan Singh</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Chhotapind Alias Barapind (367)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Lallian Khurd (426)</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>SHRI Harbhajan Singh</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Chhuhar (384)</td><td>12 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Chhuhar (384)</td><td>12 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Dasua</td><td>Narur (464)</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Dasua</td><td>Dholowal (8)</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Dasua</td><td>Manga (12)</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Tanda</td><td>Sikri (66)</td><td>12 Jan 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>SHRI Harbhajan Singh</td><td>NA - Street lights</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Dasua</td><td>Jia Sahota Kalan (21)</td><td>12 Jan 2024</td><td>490200</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>SHRI Harbhajan Singh</td><td>NA - Street lights</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Tanda</td><td>Sikri (66)</td><td>12 Jan 2024</td><td>258000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Shri Sant Balbir Singh</td><td>NA - Construction of buildings for training institutions</td><td>Repair and Renovation</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER ROOPNAGAR_IDA</td><td>Kiratpur Sahib</td><td>12</td><td>NA</td><td>NA</td><td>13 Jan 2024</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER ROOPNAGAR_IDA</td><td>Kiratpur Sahib</td><td>kiratpur sahib</td><td>NA</td><td>NA</td><td>16 Jan 2024</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of building for artificial insemination and breeding centers</td><td>Trust and Society</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LUDHIANA_IDA</td><td>NA</td><td>NA</td><td>Ludhiana (West)</td><td>Saraba (354)</td><td>17 Jan 2024</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of stadiums</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SAHIBZADA AJIT SINGH NAGAR MOHALI_IDA</td><td>NA</td><td>NA</td><td>Kharar</td><td>Majri (147)</td><td>17 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Dasua</td><td>Bodal (93)</td><td>24 Jan 2024</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>SHRI Harbhajan Singh</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HOSHIARPUR_IDA</td><td>NA</td><td>NA</td><td>Hoshiarpur</td><td>Sham Chaursi ( Rural ) (199)</td><td>25 Jan 2024</td><td>3856000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>Vikramjit Singh Sahney (Rajya Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PATIALA_IDA</td><td>Patiala</td><td>Ward No. 57</td><td>NA</td><td>NA</td><td>06 Feb 2024</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>Shri Sant Balbir Singh</td><td>NA - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Shahkot</td><td>Nawanpind Donawala (189)</td><td>07 Feb 2024</td><td>336300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Nijjran (423)</td><td>10 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Bulandpur (162)</td><td>10 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Lallian Khurd (426)</td><td>10 Feb 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Mangeki (359)</td><td>10 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Bidhipur On Amritsar Road (Og)</td><td>10 Feb 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>SHRI Sanjeev Arora</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JALANDHAR_IDA</td><td>NA</td><td>NA</td><td>Jalandhar - II</td><td>Bhikhu Nangal (380)</td><td>10 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>Shri Sant Balbir Singh</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Punjab</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SANGRUR_IDA</td><td>NA</td><td>NA</td><td>Moonak</td><td>Dudian (94)</td><td>25 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

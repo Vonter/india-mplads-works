@@ -1,0 +1,265 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>19</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>10</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Nerul (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>11</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>12</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>11</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Calangute (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Calangute (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Siolim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Candolim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>8</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Reis Magos (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Reis Magos (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Arambol (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Virnora</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Morgim</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Corgao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Pilerne (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Tuem</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Assagao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Pilerne (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>1</td><td>BARDEZ</td><td>Moira (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Candolim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Arambol (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Varconda</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Varconda</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>City Corporation Panaji</td><td>12</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>City Corporation Panaji</td><td>11</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>City Corporation Panaji</td><td>28</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>City Corporation Panaji</td><td>23</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>City Corporation Panaji</td><td>12</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Chorao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Chimbel (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Chorao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Chimbel (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Mercurim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Goa-Velha</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Chimbel (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Goa-Velha</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Goa-Velha</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Cujira (OG)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Neura-O-Grande</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Corlim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Cujira (OG)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Taleigao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Goltim</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Goltim</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Taleigao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Goa-Velha</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Ella</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Taleigao</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Corlim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Morambi-o-Grande (Merces)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Jua (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Morambi-o-Grande (Merces)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>TISWADI</td><td>Carambolim</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Pernem</td><td>9</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Pernem</td><td>4</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Pernem</td><td>1</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Arambol (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Morgim</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Mandrem (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Arambol (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>PERNEM</td><td>Arambol (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SOUTH GOA_IDA</td><td>NA</td><td>NA</td><td>Dharbandora</td><td>Colem</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SOUTH GOA_IDA</td><td>NA</td><td>NA</td><td>CANACONA</td><td>Canacona</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SOUTH GOA_IDA</td><td>Quepem</td><td>13</td><td>MORMUGAO</td><td>Quelossim</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SOUTH GOA_IDA</td><td>Quepem</td><td>13</td><td>MORMUGAO</td><td>Cortalim (CT)</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SOUTH GOA_IDA</td><td>Margao</td><td>11</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>SATARI</td><td>Gonteli</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>SATARI</td><td>Poriem</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>SATARI</td><td>Poriem</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Valpoi</td><td>2</td><td>NA</td><td>NA</td><td>21 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>BARDEZ</td><td>Nerul (CT)</td><td>21 Jul 2023</td><td>550000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>19</td><td>BARDEZ</td><td>Candolim (CT)</td><td>21 Jul 2023</td><td>550000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>SHRI Vinay D Tendulkar</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mapusa</td><td>10</td><td>BARDEZ</td><td>Pilerne (CT)</td><td>21 Jul 2023</td><td>550000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>SHRI Vinay D Tendulkar</td><td>NA - Purchase of school vans and buses (Four and three wheelers)</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Pernem</td><td>1</td><td>NA</td><td>NA</td><td>25 Jul 2023</td><td>1560128</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>SHRI Vinay D Tendulkar</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Bicholim</td><td>1</td><td>NA</td><td>NA</td><td>26 Jul 2023</td><td>9288564</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>SHRI Vinay D Tendulkar</td><td>NA - Purchase of books and periodicals for libraries</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>Mormugao</td><td>1</td><td>TISWADI</td><td>Azossim</td><td>27 Jul 2023</td><td>2131737</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>Sadanand Shet Tanavade (Rajya Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Goa</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NORTH GOA_IDA</td><td>NA</td><td>NA</td><td>Bardez</td><td>Pirna</td><td>09 Jan 2024</td><td>7000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

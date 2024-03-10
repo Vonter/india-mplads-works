@@ -1,0 +1,145 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Dr Kakoli Ghosh Dastidar </td><td>WS/MP421/2023-2024/503 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>BARASAT</td><td>DISTRICT MAGISTRATE NORTH TWENTY FOUR PARGANAS_IDA</td><td>NA</td><td>NA</td><td>HABRA-II</td><td>Dighra</td><td>25 May 2023</td><td>784000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Shri Arjun Singh (17th Lok Sabha)</td><td>WS/MP425/2023-2024/1576 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>BARRACKPUR</td><td>DISTRICT MAGISTRATE NORTH TWENTY FOUR PARGANAS_IDA</td><td>NA</td><td>NA</td><td>AMDANGA</td><td>Beraberia</td><td>24 Jun 2023</td><td>2200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Shri Arjun Singh (17th Lok Sabha)</td><td>WS/MP425/2023-2024/1577 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>BARRACKPUR</td><td>DISTRICT MAGISTRATE NORTH TWENTY FOUR PARGANAS_IDA</td><td>NA</td><td>NA</td><td>AMDANGA</td><td>Amdanga</td><td>24 Jun 2023</td><td>6000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Shri Arjun Singh (17th Lok Sabha)</td><td>WS/MP425/2023-2024/1579 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>BARRACKPUR</td><td>DISTRICT MAGISTRATE NORTH TWENTY FOUR PARGANAS_IDA</td><td>NA</td><td>NA</td><td>BARASAT-I</td><td>Chhota Jagulia</td><td>24 Jun 2023</td><td>1200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3179 - Construction of culverts and bridges</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>ULUBERIA-I</td><td>Kalinagar</td><td>11 Jul 2023</td><td>360000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3229 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>ULUBERIA-II</td><td>Tehatta (CT)</td><td>12 Jul 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3230 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>ULUBERIA-II</td><td>Tehatta (CT)</td><td>12 Jul 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3231 - Lighting of public spaces</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>SHYAMPUR-I</td><td>Radhapur (CT)</td><td>12 Jul 2023</td><td>150000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3232 - Street lights</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Chandrapur (CT)</td><td>12 Jul 2023</td><td>630000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3233 - Lighting of public spaces</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Chandrapur (CT)</td><td>12 Jul 2023</td><td>150000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/3234 - Street lights</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Chandrapur (CT)</td><td>12 Jul 2023</td><td>150000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Ms Mahua Moitra(17th Lok Sabha)</td><td>WS/MP823/2023-2024/3715 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>KRISHNANAGAR</td><td>DISTRICT MAGISTRATE NADIA_IDA</td><td>NA</td><td>NA</td><td>KRISHNAGAR-II</td><td>Noapara</td><td>15 Jul 2023</td><td>3002104</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Ms Mahua Moitra(17th Lok Sabha)</td><td>WS/MP823/2023-2024/4282 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>KRISHNANAGAR</td><td>DISTRICT MAGISTRATE NADIA_IDA</td><td>NA</td><td>NA</td><td>TEHATTA-I</td><td>Pathar Ghata</td><td>18 Jul 2023</td><td>3800000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Ms Mahua Moitra(17th Lok Sabha)</td><td>WS/MP823/2023-2024/4558 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>KRISHNANAGAR</td><td>DISTRICT MAGISTRATE NADIA_IDA</td><td>NA</td><td>NA</td><td>KARIMPUR-II</td><td>Narayanpur</td><td>18 Jul 2023</td><td>2083419</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Ms Mahua Moitra(17th Lok Sabha)</td><td>WS/MP823/2023-2024/4559 - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>West Bengal</td><td>KRISHNANAGAR</td><td>DISTRICT MAGISTRATE NADIA_IDA</td><td>NA</td><td>NA</td><td>TEHATTA-I</td><td>Betai</td><td>18 Jul 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/6861 - Street lights</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Amta (CT)</td><td>28 Jul 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/6866 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>ULUBERIA-I</td><td>Pirpur</td><td>28 Jul 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Asit Kumar Mal (17th Lok Sabha)</td><td>WS/MP858/2023-2024/7289 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Repair and Renovation</td><td>West Bengal</td><td>BOLPUR(SC)</td><td>DISTRICT MAGISTRATE PURBA BARDHAMAN_IDA</td><td>NA</td><td>NA</td><td>AUSGRAM-I</td><td>Ukta</td><td>01 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/7447 - Lighting of public spaces</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Udang (CT)</td><td>02 Aug 2023</td><td>150000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Asit Kumar Mal (17th Lok Sabha)</td><td>WS/MP858/2023-2024/8747 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>West Bengal</td><td>BOLPUR(SC)</td><td>DISTRICT MAGISTRATE PURBA BARDHAMAN_IDA</td><td>NA</td><td>NA</td><td>KATWA-I</td><td>Sargram</td><td>11 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Asit Kumar Mal (17th Lok Sabha)</td><td>WS/MP858/2023-2024/8872 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>BOLPUR(SC)</td><td>DISTRICT MAGISTRATE PURBA BARDHAMAN_IDA</td><td>NA</td><td>NA</td><td>KATWA-I</td><td>Gidhgram</td><td>12 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Asit Kumar Mal (17th Lok Sabha)</td><td>WS/MP858/2023-2024/8873 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>BOLPUR(SC)</td><td>DISTRICT MAGISTRATE PURBA BARDHAMAN_IDA</td><td>NA</td><td>NA</td><td>KATWA-I</td><td>Alampur</td><td>12 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Sunil Kumar Mondal (17th Lok Sabha)</td><td>WS/MP864/2023-2024/12676 - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>West Bengal</td><td>BARDHAMAN PURBA(SC)</td><td>DISTRICT MAGISTRATE PURBA BARDHAMAN_IDA</td><td>NA</td><td>NA</td><td>RAINA-II</td><td>Gotan</td><td>24 Aug 2023</td><td>600000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/13745 - Construction of community centers and community halls</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>BINPUR-II</td><td>Muransol</td><td>28 Aug 2023</td><td>4292400</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/13746 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>JHARGRAM</td><td>Chandri</td><td>28 Aug 2023</td><td>4129294</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/13749 - Lighting of public spaces</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>JAMBANI</td><td>Lohamalia</td><td>28 Aug 2023</td><td>3000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/13755 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>SANKRAIL</td><td>Laudaha</td><td>28 Aug 2023</td><td>4641346</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/13759 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>JHARGRAM</td><td>Birhandi</td><td>28 Aug 2023</td><td>4000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/13760 - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>SANKRAIL</td><td>Lata</td><td>28 Aug 2023</td><td>4454316</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17296 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Ratanpur</td><td>06 Sep 2023</td><td>269086</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17303 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Haripur</td><td>06 Sep 2023</td><td>281088</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17307 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Banasri Gauri</td><td>06 Sep 2023</td><td>273755</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17308 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Bahadurpur</td><td>06 Sep 2023</td><td>327197</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17310 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Bahadurpur</td><td>06 Sep 2023</td><td>327197</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17312 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Haripur</td><td>06 Sep 2023</td><td>265170</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17313 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Bahadurpur</td><td>06 Sep 2023</td><td>327197</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Shri Dibyendu Adhikari (17th Lok Sabha)</td><td>WS/MP418/2023-2024/17314 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>TAMLUK</td><td>DISTRICT MAGISTRATE PURBA MEDINIPUR_IDA</td><td>NA</td><td>NA</td><td>NANDIGRAM-I</td><td>Haripur</td><td>06 Sep 2023</td><td>265170</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/19033 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>SHYAMPUR-II</td><td>Chalitapara</td><td>12 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Kalyan Banerjee (17th Lok Sabha)</td><td>WS/MP859/2023-2024/25525 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>West Bengal</td><td>SREERAMPUR</td><td>DISTRICT MAGISTRATE HOOGHLY_IDA</td><td>NA</td><td>NA</td><td>JANGIPARA</td><td>Rajbalhat (CT)</td><td>23 Sep 2023</td><td>344653</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Shri Kunar Hembram (17th Lok Sabha)</td><td>WS/MP237/2023-2024/28092 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>JHARGRAM(ST)</td><td>DISTRICT MAGISTRATE JHARGRAM_IDA</td><td>NA</td><td>NA</td><td>SANKRAIL</td><td>Banpura</td><td>28 Sep 2023</td><td>4482638</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Kalyan Banerjee (17th Lok Sabha)</td><td>WS/MP859/2023-2024/28873 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>West Bengal</td><td>SREERAMPUR</td><td>DISTRICT MAGISTRATE HOOGHLY_IDA</td><td>NA</td><td>NA</td><td>CHANDITALA-II</td><td>Baksa (CT)</td><td>29 Sep 2023</td><td>315841</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Kalyan Banerjee (17th Lok Sabha)</td><td>WS/MP859/2023-2024/29106 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>SREERAMPUR</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>BALLY-JAGACHA</td><td>Chakapara (CT)</td><td>30 Sep 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Kalyan Banerjee (17th Lok Sabha)</td><td>WS/MP859/2023-2024/29107 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>SREERAMPUR</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>BALLY-JAGACHA</td><td>Chakapara (CT)</td><td>30 Sep 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/35504 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>SHYAMPUR-II</td><td>Nakol</td><td>10 Oct 2023</td><td>600000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/35505 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Chandrapur (CT)</td><td>10 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Smt Sajda Ahmed(17th Lok Sabha)</td><td>WS/MP829/2023-2024/35506 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>West Bengal</td><td>ULUBERIA</td><td>DISTRICT MAGISTRATE HOWRAH_IDA</td><td>NA</td><td>NA</td><td>AMTA-I</td><td>Purba Gazipur</td><td>10 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr>
+	</table>
+</div>

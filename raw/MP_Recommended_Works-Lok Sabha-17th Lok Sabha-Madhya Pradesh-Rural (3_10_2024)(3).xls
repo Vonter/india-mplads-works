@@ -1,0 +1,16 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Faggan Singh Kulaste(17th Lok Sabha)</td><td>WS/MP640/2023-2024/23784 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>MANDLA(ST)</td><td>District Collector Dindori_IDA</td><td>NA</td><td>NA</td><td>DINDORI</td><td>Vikrampur Ryt.</td><td>20 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Nakul K Nath</td><td>WS/MP442/2023-2024/31209 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>CHHINDWARA</td><td>DISTRICT COLLECTOR CHHINDWARA_IDA</td><td>NA</td><td>NA</td><td>CHAURAI</td><td>Kheri Khurd</td><td>04 Oct 2023</td><td>100000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Prahlad Singh Patel(17th Lok Sabha)</td><td>WS/MP646/2023-2024/32156 - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>DAMOH</td><td>DISTRICT COLLECTOR DAMOH_IDA</td><td>NA</td><td>NA</td><td>BATIYAGARH</td><td>Fatehpur</td><td>05 Oct 2023</td><td>996000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,49 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5877 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>13500000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5882 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>10000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5883 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>11000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5890 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>Deputy Commissioner Zunheboto_IDA</td><td>NA</td><td>NA</td><td>TOKIYE</td><td>Luvishe (New)</td><td>24 Jul 2023</td><td>2500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5912 - Common work sheds for artisans</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>Deputy Commissioner Zunheboto_IDA</td><td>NA</td><td>NA</td><td>TOKIYE</td><td>LUKHUYI</td><td>24 Jul 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5918 - Common work sheds for artisans</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>Deputy Commissioner Zunheboto_IDA</td><td>NA</td><td>NA</td><td>TOKIYE</td><td>AKUBA</td><td>24 Jul 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5927 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>Dimapur Municipal Council</td><td>Ward 9</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5937 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>East Dimapur Town Council</td><td>Ward 11</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5940 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>CHUMUKEDIMA</td><td>Darogapathar</td><td>24 Jul 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5942 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>CHUMUKEDIMA</td><td>Toluvi</td><td>24 Jul 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5944 - Installing community drinking water plants</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>East Dimapur Town Council</td><td>ward 10</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5946 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>Dimapur Municipal Council</td><td>Ward 21</td><td>NA</td><td>NA</td><td>24 Jul 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5947 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>CHUMUKEDIMA</td><td>Darogapathar</td><td>24 Jul 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/5949 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>NA</td><td>NA</td><td>CHUMUKEDIMA</td><td>Padampukhuri</td><td>24 Jul 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Shri  Tokheho (17th Lok Sabha)</td><td>WS/MP368/2023-2024/6142 - Creation of new ponds</td><td>Normal/Others</td><td>Nagaland</td><td>NAGALAND</td><td>DEPUTY COMMISSIONER DIMAPUR_IDA</td><td>East Dimapur Town Council</td><td>ward 2</td><td>NA</td><td>NA</td><td>25 Jul 2023</td><td>2000000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr>
+	</table>
+</div>

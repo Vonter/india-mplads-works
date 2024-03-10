@@ -1,0 +1,40 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Smt S Phangnon Konyak</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>NA</td><td>Deputy Commissioner Kiphire_IDA</td><td>NA</td><td>NA</td><td>SITIMI</td><td>Sitimi Vill.</td><td>05 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Smt S Phangnon Konyak</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Nagaland</td><td>NA</td><td>Deputy Commissioner Shamator_IDA</td><td>NA</td><td>NA</td><td>CHESSORE</td><td>Chessore Vill.</td><td>05 Dec 2023</td><td>21000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56790 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>NA</td><td>NA</td><td>MON</td><td>Lampongsheanghah</td><td>05 Dec 2023</td><td>10000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56800 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>Mon Town Council</td><td>ward-8</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56811 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>Mon Town Council</td><td>ward-6</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>5000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56813 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>Mon Town Council</td><td>ward-8</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Smt S Phangnon Konyak</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Nagaland</td><td>NA</td><td>Deputy Commissioner Longleng_IDA</td><td>NA</td><td>NA</td><td>LONGLENG</td><td>Tangha</td><td>05 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56818 - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>Mon Town Council</td><td>ward-9</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56829 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>Mon Town Council</td><td>ward-9</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Smt S Phangnon Konyak</td><td>WS/MP233/2023-2024/56830 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Nagaland</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mon_IDA</td><td>NA</td><td>NA</td><td>WAKCHING</td><td>Lamphang Tiru</td><td>05 Dec 2023</td><td>4000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Smt S Phangnon Konyak</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Nagaland</td><td>NA</td><td>Deputy Commissioner Peren_IDA</td><td>NA</td><td>NA</td><td>JALUKIE</td><td>Jalukie B</td><td>05 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,517 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/536 - Construction of toilet blocks</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>KHAIRABAD</td><td>Sitapur</td><td>07 Jun 2023</td><td>1250750</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/537 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>REUSA</td><td>Mujehna</td><td>07 Jun 2023</td><td>2236550</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/559 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>REUSA</td><td>Mujehna</td><td>07 Jun 2023</td><td>1665565</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/560 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>RAMPUR MATHURA</td><td>Tulsipur Banjar</td><td>07 Jun 2023</td><td>2185272</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1582 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>KHAIRABAD</td><td>Sarai Bhat</td><td>24 Jun 2023</td><td>1590397</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1583 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>REUSA</td><td>Golak Gondor</td><td>24 Jun 2023</td><td>3997494</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1584 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>SAKRAN</td><td>Patna</td><td>24 Jun 2023</td><td>3998362</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1585 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>REUSA</td><td>Bhithanafarr</td><td>24 Jun 2023</td><td>3997192</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1586 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>REUSA</td><td>Ramuwapur Kalikasingh</td><td>24 Jun 2023</td><td>3999640</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1587 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>REUSA</td><td>Belha Dariyana</td><td>24 Jun 2023</td><td>3997656</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1588 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>BEHTA</td><td>Hajaratpur</td><td>24 Jun 2023</td><td>3502728</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1589 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>BEHTA</td><td>Hajaratpur</td><td>24 Jun 2023</td><td>1002021</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Rajesh Verma</td><td>WS/MP018/2023-2024/1590 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SITAPUR</td><td>DISTRICT MAGISTRATE SITAPUR_IDA</td><td>NA</td><td>NA</td><td>AILIYA</td><td>Klarak Nagar</td><td>24 Jun 2023</td><td>3992692</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Dr. Vijay Kumar Singh  (Retd) General </td><td>WS/MP400/2023-2024/3462 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>GHAZIABAD</td><td>DISTRICT MAGISTRAE GHAZIABAD_IDA</td><td>NA</td><td>NA</td><td>RAJAPUR</td><td>Matiala</td><td>13 Jul 2023</td><td>3822000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Dr. Vijay Kumar Singh  (Retd) General </td><td>WS/MP400/2023-2024/3543 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>GHAZIABAD</td><td>DISTRICT MAGISTRAE GHAZIABAD_IDA</td><td>NA</td><td>NA</td><td>RAJAPUR</td><td>Didwari</td><td>13 Jul 2023</td><td>3829000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Niranjan Jyoti(17th Lok Sabha)</td><td>WS/MP816/2023-2024/6970 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>FATEHPUR</td><td>DISTRICT MAGISTRATE FATEHPUR_IDA</td><td>NA</td><td>NA</td><td>BHITAURA</td><td>Barai Khurd</td><td>29 Jul 2023</td><td>1353000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Devendra Alias Bhole Singh(17th Lok Sabha)</td><td>WS/MP787/2023-2024/7206 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>AKBARPUR</td><td>DISTRICT MAGISTRAE KANPUR NAGAR_IDA</td><td>NA</td><td>NA</td><td>VIDHUNU</td><td>Shambhuwa</td><td>31 Jul 2023</td><td>2041000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Devendra Alias Bhole Singh(17th Lok Sabha)</td><td>WS/MP787/2023-2024/7209 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>AKBARPUR</td><td>DISTRICT MAGISTRAE KANPUR NAGAR_IDA</td><td>NA</td><td>NA</td><td>VIDHUNU</td><td>Kathui</td><td>31 Jul 2023</td><td>800000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Devendra Alias Bhole Singh(17th Lok Sabha)</td><td>WS/MP787/2023-2024/7210 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>AKBARPUR</td><td>DISTRICT MAGISTRAE KANPUR NAGAR_IDA</td><td>NA</td><td>NA</td><td>VIDHUNU</td><td>Pipar Gawan</td><td>31 Jul 2023</td><td>2023000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Devendra Alias Bhole Singh(17th Lok Sabha)</td><td>WS/MP787/2023-2024/7212 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>AKBARPUR</td><td>DISTRICT MAGISTRAE KANPUR NAGAR_IDA</td><td>NA</td><td>NA</td><td>KALYANPUR</td><td>Surar</td><td>31 Jul 2023</td><td>1591000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Shri Arun Kumar Sagar (17th Lok Sabha)</td><td>WS/MP492/2023-2024/8335 - Street lights</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>SHAHJAHANPUR(SC)</td><td>DISTRICT MAGISTRAE SHAHJAHANAPUR_IDA</td><td>NA</td><td>NA</td><td>KHUDAGANJ KATRA</td><td>Ramapur utteri</td><td>07 Aug 2023</td><td>129700</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Jai Prakash(17th Lok Sabha)</td><td>WS/MP792/2023-2024/8645 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HARDOI (SC)</td><td>DISTRICT MAGISTRATE HARDOI_IDA</td><td>NA</td><td>NA</td><td>AHIRORI</td><td>Ahirori</td><td>10 Aug 2023</td><td>2500000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Jai Prakash(17th Lok Sabha)</td><td>WS/MP792/2023-2024/9057 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HARDOI (SC)</td><td>DISTRICT MAGISTRATE HARDOI_IDA</td><td>NA</td><td>NA</td><td>AHIRORI</td><td>Akbarpur</td><td>13 Aug 2023</td><td>1001000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Jai Prakash(17th Lok Sabha)</td><td>WS/MP792/2023-2024/9062 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HARDOI (SC)</td><td>DISTRICT MAGISTRATE HARDOI_IDA</td><td>NA</td><td>NA</td><td>TANDIYAWAN</td><td>Behta Chand</td><td>13 Aug 2023</td><td>600000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Jai Prakash(17th Lok Sabha)</td><td>WS/MP792/2023-2024/9105 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HARDOI (SC)</td><td>DISTRICT MAGISTRATE HARDOI_IDA</td><td>NA</td><td>NA</td><td>HARIYAWAN</td><td>Deoriya Prasidh Nagar</td><td>13 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11347 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>KERAKAT</td><td>Parmanandpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11348 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>KERAKAT</td><td>Senapur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11349 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>KERAKAT</td><td>Dharaura</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11350 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>KERAKAT</td><td>Sijhwara</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11351 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Kaserawa</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11352 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Chauki Khurd</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11353 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Chitawan</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11354 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Jarauna</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11355 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Rampur Kalan</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11356 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Kharuawan</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11357 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Kisun Daspur Ta. Agahuwa</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11359 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Haweli</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11361 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Adari</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11362 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Barawan</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11363 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Ramgrah Khas</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11364 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MACHCHALI SHAHAR</td><td>Jagadishpur Khas</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11369 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Rehati</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11370 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Rehari</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11372 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Kardaha</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11373 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Jagapur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11374 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Makra</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11375 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Kusanw</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11376 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Asbaranpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11378 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Lahangpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11381 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Mai</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11382 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Lalpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11383 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Mahimapur (CT)</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11385 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Chhati Dih</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11387 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Kanuwani</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11388 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Mahimapur (CT)</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11389 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Chauri</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11390 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>JALAL PUR</td><td>Rehati</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11391 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DOBHI</td><td>Dudhaura</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11392 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DOBHI</td><td>Patrahi</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11393 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DOBHI</td><td>Sidhauni</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11394 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DOBHI</td><td>Koilari</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11395 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DHARMA PUR</td><td>Pilkhini</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11396 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DHARMA PUR</td><td>Pande Patti</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11397 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DHARMA PUR</td><td>Kuchhmuchh</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11398 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>DHARMA PUR</td><td>Gazana</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11400 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Jamaitha</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11401 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Nehru Nagar Urf Birbhanpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11404 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Talamajhwara</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11405 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Surhurpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11406 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Rajapur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11407 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Sirkoni</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11408 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>SIRKONI</td><td>Talamajhwara</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11424 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>RAM NAGAR</td><td>Harsinghpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11432 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>RAM NAGAR</td><td>Etaw</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11433 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Kuthli</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11434 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Mukundpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11435 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Belgahan</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11436 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Kumbh</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11437 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Imamshahpur</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11438 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Harhuwa</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11439 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Gauhar</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11440 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Kerwari</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11441 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Bansdev Patti</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11442 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MARIYAHU</td><td>Raiya</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11470 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MUFTI GANJ</td><td>Bhogipatti</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11471 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MUFTI GANJ</td><td>Deokali</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11474 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MUFTI GANJ</td><td>Deokali</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/11475 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>MUFTI GANJ</td><td>Bairagiya</td><td>20 Aug 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12304 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Jatwar</td><td>23 Aug 2023</td><td>1337000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12305 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Talesara</td><td>23 Aug 2023</td><td>1757000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12307 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>IGLAS</td><td>Hastpur Chandfari</td><td>23 Aug 2023</td><td>2397000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12309 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Shyam Garhi</td><td>23 Aug 2023</td><td>2481000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12312 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>LODHA</td><td>Lohsara visavan</td><td>23 Aug 2023</td><td>1453000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12555 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>DHANIPUR</td><td>Boner</td><td>23 Aug 2023</td><td>592000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12556 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>LODHA</td><td>Kiratpur Nimana</td><td>23 Aug 2023</td><td>973000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12557 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>DHANIPUR</td><td>Pikhlauni</td><td>23 Aug 2023</td><td>2498000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12559 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Chooharpur Kinvasa</td><td>23 Aug 2023</td><td>2434000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12575 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Nagla Chandram</td><td>23 Aug 2023</td><td>2319000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12576 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Nagla Chandram</td><td>23 Aug 2023</td><td>2304000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12577 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>GONDA</td><td>Nagla Chandram</td><td>23 Aug 2023</td><td>2362000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12578 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>IGLAS</td><td>Bahadurpur</td><td>23 Aug 2023</td><td>1614000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12581 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>SEHPAU</td><td>Madhapithu</td><td>23 Aug 2023</td><td>1005000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12582 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>MURSAN</td><td>Chandapa</td><td>23 Aug 2023</td><td>2265000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/12585 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>SEHPAU</td><td>Hasanpur Baru</td><td>23 Aug 2023</td><td>2436000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/16804 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>SADABAD</td><td>Kursanda</td><td>05 Sep 2023</td><td>1384000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/16805 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>SASNI</td><td>Sasni Dehat</td><td>05 Sep 2023</td><td>1384000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/16806 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>MURSAN</td><td>Chandapa</td><td>05 Sep 2023</td><td>1384000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/16807 - Installation of firmly fixed waiting chairs and benches at railway stations</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>HATHRAS</td><td>Devinagar (CT)</td><td>05 Sep 2023</td><td>1384000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/17691 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>SIKANDRARAO</td><td>Agsauli</td><td>07 Sep 2023</td><td>1384000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/17717 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE HATHRAS_IDA</td><td>NA</td><td>NA</td><td>MURSAN</td><td>Parsara</td><td>07 Sep 2023</td><td>1384000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19007 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Lohpooth</td><td>12 Sep 2023</td><td>525000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19008 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>LODHA</td><td>Chandraula</td><td>12 Sep 2023</td><td>736000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19011 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Jahrana</td><td>12 Sep 2023</td><td>525000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19012 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>KHAIR</td><td>Chaumunha</td><td>12 Sep 2023</td><td>910000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19187 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>KHAIR</td><td>Kadauli</td><td>12 Sep 2023</td><td>522000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19188 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Jalakha</td><td>12 Sep 2023</td><td>525000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19189 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Kaseru</td><td>12 Sep 2023</td><td>307000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/19208 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Hasanpur</td><td>12 Sep 2023</td><td>525000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/20789 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Khijarpur</td><td>15 Sep 2023</td><td>798000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/20889 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>ATRAULI</td><td>Usmanpur</td><td>15 Sep 2023</td><td>525000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/20893 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>CHANDAUS</td><td>Bhogpur</td><td>15 Sep 2023</td><td>1065000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/21153 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>AKRABAD</td><td>Mandanpur</td><td>15 Sep 2023</td><td>2403400</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>Rajvir Diler</td><td>WS/MP803/2023-2024/26023 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>HATHRAS (SC)</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>DHANIPUR</td><td>Ukavli</td><td>25 Sep 2023</td><td>1920000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>Dr Chandra Sen Jadon (17th Lok Sabha)</td><td>WS/MP497/2023-2024/32679 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>FIROZABAD</td><td>DISTRICT MAGISTRATE FIROZABAD_IDA</td><td>NA</td><td>NA</td><td>ARAON</td><td>Singemai</td><td>06 Oct 2023</td><td>1282000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>Dr Chandra Sen Jadon (17th Lok Sabha)</td><td>WS/MP497/2023-2024/32681 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>FIROZABAD</td><td>DISTRICT MAGISTRATE FIROZABAD_IDA</td><td>NA</td><td>NA</td><td>ARAON</td><td>Paigu</td><td>06 Oct 2023</td><td>169000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>BP Saroj Bholanath</td><td>WS/MP469/2023-2024/33629 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MACHHLISHAHR(SC)</td><td>DISTRICT MAGISTRATE JAUNPUR_IDA</td><td>NA</td><td>NA</td><td>KERAKAT</td><td>Behara</td><td>07 Oct 2023</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>Dr Chandra Sen Jadon (17th Lok Sabha)</td><td>WS/MP497/2023-2024/33970 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>FIROZABAD</td><td>DISTRICT MAGISTRATE FIROZABAD_IDA</td><td>NA</td><td>NA</td><td>JASRANA</td><td>Banvara</td><td>07 Oct 2023</td><td>713000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/38328 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>250000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/38331 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>1000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/38341 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>850000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>Shri Satish Kumar Gautam (17th Lok Sabha)</td><td>WS/MP487/2023-2024/38354 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>ALIGARH</td><td>DISTRICT MAGISTRATE ALIGARH_IDA</td><td>NA</td><td>NA</td><td>DHANIPUR</td><td>Haivatpur Piratha</td><td>18 Oct 2023</td><td>703000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/38358 - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>200000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/38372 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>1500000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/38587 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>19 Oct 2023</td><td>1600000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/50324 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>NOHJHIL</td><td>Badoth</td><td>18 Nov 2023</td><td>1120000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/50328 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>GOVARDHAN</td><td>Phondar</td><td>18 Nov 2023</td><td>560000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/50339 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>MATHURA</td><td>Umari</td><td>18 Nov 2023</td><td>1080000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/50342 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>CHAUMUHA</td><td>Nari</td><td>18 Nov 2023</td><td>310000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>Smt Hema Malini(17th Lok Sabha)</td><td>WS/MP819/2023-2024/50343 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MATHURA</td><td>DISTRICT MAGISTRAE MATHURA_IDA</td><td>NA</td><td>NA</td><td>CHAUMUHA</td><td>Nari</td><td>18 Nov 2023</td><td>390000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53226 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SARSAWAN</td><td>Shahpur Uparhar</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53227 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>MANJHANPUR</td><td>Dariyapur Guvara</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53228 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>MANJHANPUR</td><td>Guvara Taiyabpur</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53229 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>MANJHANPUR</td><td>Pawaiyan</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53230 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SARSAWAN</td><td>Dhawada</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53231 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>MANJHANPUR</td><td>Adahara</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53232 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SARSAWAN</td><td>Hinouta</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53233 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SARSAWAN</td><td>Katari</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53234 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SARSAWAN</td><td>Shahpur Uparhar</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53238 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SIRATHU</td><td>Rampur Dhamawan</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53239 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SIRATHU</td><td>Juwara</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53242 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>SIRATHU</td><td>Nara</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/53243 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>KARA</td><td>Kanwar North</td><td>26 Nov 2023</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>Pankaj Chowdhary(17th Lok Sabha)</td><td>WS/MP799/2023-2024/70704 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MAHARAJGANJ_UP</td><td>DISTRICT MAGISTRAE MAHARAJGANJ_IDA</td><td>NA</td><td>NA</td><td>Maharajganj</td><td>Kotamukundpur</td><td>28 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>Pankaj Chowdhary(17th Lok Sabha)</td><td>WS/MP799/2023-2024/71378 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>MAHARAJGANJ_UP</td><td>DISTRICT MAGISTRAE MAHARAJGANJ_IDA</td><td>NA</td><td>NA</td><td>Maharajganj</td><td>Paniyara</td><td>29 Dec 2023</td><td>1000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80168 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Manjhanpur</td><td>Ballopur</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80169 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Nara</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80170 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Manjhanpur</td><td>Mahila Uparhar</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80171 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Shahjadpur Uperhar</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80172 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Mongary Kara</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80173 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Manjhanpur</td><td>Osa</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80174 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Chail</td><td>Bairua</td><td>11 Jan 2024</td><td>582000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80208 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Dhumai</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80209 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Afzalpur Wari</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80211 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Chail</td><td>Charwa</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>165</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80212 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Manjhanpur</td><td>Osa</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>166</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80213 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Chail</td><td>Chirari</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>167</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80214 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Manjhanpur</td><td>Adahara</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>168</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80215 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Masipur</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>169</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80216 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Sirathu</td><td>Sindhiya Amad Karari</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>170</td><td>Shri Vinod Kumar Sonkar (17th Lok Sabha)</td><td>WS/MP399/2023-2024/80217 - Lighting of public spaces</td><td>Normal/Others</td><td>Uttar Pradesh</td><td>KAUSHAMBI(SC)</td><td>DISTRICT MAGISTRAE KAUSHAMBI_IDA</td><td>NA</td><td>NA</td><td>Manjhanpur</td><td>Gober Sahai</td><td>11 Jan 2024</td><td>178000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr>
+	</table>
+</div>

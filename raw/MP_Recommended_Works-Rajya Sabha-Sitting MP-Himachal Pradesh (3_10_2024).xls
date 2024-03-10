@@ -1,0 +1,499 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13332 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>MASHOBRA</td><td>Sharai (258)</td><td>26 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Beha (17/29)</td><td>26 Aug 2023</td><td>40000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13390 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>HAMIRPUR</td><td>Dohag (37/27)</td><td>26 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Janjeli (160)</td><td>26 Aug 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13410 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Budhwana (26/23)</td><td>26 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Dr Sikander Kumar</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Repair and Renovation</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Budhwana (26/23)</td><td>26 Aug 2023</td><td>100000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Budhwana (26/23)</td><td>26 Aug 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13417 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>BANGANA</td><td>Bahal Khalsa (10/15)</td><td>26 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>PRAGPUR</td><td>Dangra (180)</td><td>26 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13426 - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>PRAGPUR</td><td>Dangra (180)</td><td>26 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13427 - Purchase of books for public libraries</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>Mandi</td><td>12</td><td>NA</td><td>NA</td><td>26 Aug 2023</td><td>3000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Dr Sikander Kumar</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dharamshala</td><td>7</td><td>NA</td><td>NA</td><td>26 Aug 2023</td><td>3000000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>NA</td><td>NA</td><td>SALUNI</td><td>Dhar (236)</td><td>27 Aug 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Dr Sikander Kumar</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Repair and Renovation</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>THEOG</td><td>Kaljer (185)</td><td>27 Aug 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13534 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Mansai (27/22)</td><td>27 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13573 - Lighting of public spaces</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Jhareri (26/16)</td><td>27 Aug 2023</td><td>900000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Ghumarwin (32-25)</td><td>27 Aug 2023</td><td>1000000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13575 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Chakdahad (40-13)</td><td>27 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13576 - Installing hand pumps</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Chakdahad (40-13)</td><td>27 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>12</td><td>NA</td><td>NA</td><td>27 Aug 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13578 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>27 Aug 2023</td><td>103203</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13579 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>HAMIRPUR</td><td>Lambera (52/27)</td><td>27 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Dr Sikander Kumar</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BAMSON</td><td>Purli (62/26)</td><td>27 Aug 2023</td><td>100000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13581 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BAMSON</td><td>Narsin (45/80)</td><td>27 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13582 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>Hamirpur</td><td>4</td><td>NA</td><td>NA</td><td>27 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BAMSON</td><td>Uhal (62/9)</td><td>27 Aug 2023</td><td>100000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BAMSON</td><td>Bhreda (64-10)</td><td>27 Aug 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13585 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>TIRA SUJANPUR</td><td>Lohal (53-10)</td><td>27 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>HAMIRPUR</td><td>Dhunatar (51/12)</td><td>27 Aug 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>DEHRA GOPIPUR</td><td>Tali (634)</td><td>27 Aug 2023</td><td>250000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Dr Sikander Kumar</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>DEHRA GOPIPUR</td><td>Tali (634)</td><td>27 Aug 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13589 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>Kotkhai</td><td>Thana (20)</td><td>27 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13590 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>JUBBAL</td><td>Up Mahal Matasa (58-3)</td><td>27 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13591 - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Jhareri (26/16)</td><td>27 Aug 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13592 - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Jhareri (26/16)</td><td>27 Aug 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13594 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Saloh (17/27)</td><td>27 Aug 2023</td><td>150000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13595 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Gurehr (18/20)</td><td>27 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13596 - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Kheri (25/52)</td><td>27 Aug 2023</td><td>200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13597 - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Bhadrol (19/4)</td><td>27 Aug 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/13598 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Ropa Brahmana (31/7)</td><td>27 Aug 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Dr Sikander Kumar</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Bhaloo (36/30)</td><td>27 Aug 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25068 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Dulchehra (34/4)</td><td>23 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Shiwan (142/1)</td><td>23 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Dr Sikander Kumar</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Bara Gaon (136)</td><td>23 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Dr Sikander Kumar</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Banahar (147)</td><td>23 Sep 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Dr Sikander Kumar</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Kangal (170)</td><td>23 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Deeb (92)</td><td>23 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Janjeli (160)</td><td>23 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Khaneti (45/1)</td><td>23 Sep 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25132 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>MASHOBRA</td><td>Chamiana (372)</td><td>23 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25135 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>MASHOBRA</td><td>Mashobra (B) (246)</td><td>23 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25136 - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>MASHOBRA</td><td>Mashobra (B) (246)</td><td>23 Sep 2023</td><td>60000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25138 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>MASHOBRA</td><td>Darbhog (202)</td><td>23 Sep 2023</td><td>150000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25141 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>TOTU</td><td>Ganewag (53)</td><td>23 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Dr Sikander Kumar</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Kumharsain (99)</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Dr Sikander Kumar</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>NARKANDA</td><td>Kumharsain (99)</td><td>23 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Dr Sikander Kumar</td><td>NA - Construction of Government office buildings (Post office, Police station, Police chauki, etc.)</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>Hamirpur</td><td>11</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>300000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>SUNDARNAGAR</td><td>Nalag (58)</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Dr Sikander Kumar</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>GOHAR</td><td>Chhaprahan (21)</td><td>23 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Dr Sikander Kumar</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>GOHAR</td><td>Delag Tikri (62)</td><td>23 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25247 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>PANCHRUKHI</td><td>Simbal (990)</td><td>23 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25250 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>BAIJNATH</td><td>Hareher (829)</td><td>23 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25252 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BILASPUR_IDA</td><td>NA</td><td>NA</td><td>GHUMARWIN</td><td>Chhat (236)</td><td>23 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Dr Sikander Kumar</td><td>NA - Purchase of sports equipment</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BILASPUR_IDA</td><td>NA</td><td>NA</td><td>GHUMARWIN</td><td>Hatwar (340)</td><td>23 Sep 2023</td><td>200000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25309 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Gahli (36/35)</td><td>23 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Nurpur</td><td>4</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25323 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Batran(18/10)</td><td>23 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25344 - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>LAMBAGAON</td><td>Dhado (407)</td><td>23 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Batran(18/10)</td><td>23 Sep 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25353 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>HAMIRPUR</td><td>Thana (47/3)</td><td>23 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>HAMIRPUR</td><td>Thana (47/3)</td><td>23 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Dr Sikander Kumar</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>Sundernagar</td><td>2</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Batran(18/10)</td><td>23 Sep 2023</td><td>100000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25427 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Batran(18/10)</td><td>23 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>LAMBAGAON</td><td>Jamhun (907)</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25439 - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>LAMBAGAON</td><td>Jamhun (907)</td><td>23 Sep 2023</td><td>150000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25465 - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>DHARMPUR</td><td>Datwar (5)</td><td>23 Sep 2023</td><td>100000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/25522 - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SIRMOUR_IDA</td><td>NA</td><td>NA</td><td>PACHHAD</td><td>Sarahan Khurd (263/2)</td><td>23 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SOLAN_IDA</td><td>NA</td><td>NA</td><td>KUNIHAR</td><td>Palanian (493)</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>Kotkhai</td><td>Dakahal (59)</td><td>23 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>Dr Sikander Kumar</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SIRMOUR_IDA</td><td>Nahan</td><td>1</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>Dr Sikander Kumar</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>13</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>Dr Sikander Kumar</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>8</td><td>NA</td><td>NA</td><td>29 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>8</td><td>NA</td><td>NA</td><td>29 Sep 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>Dr Sikander Kumar</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>CHAUPAL</td><td>Up Mahal Kedi (131/1)</td><td>29 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/38523 - Purchase of books for public libraries</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dharamshala</td><td>7</td><td>NA</td><td>NA</td><td>19 Oct 2023</td><td>3000000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Ghumarwin (32-25)</td><td>05 Nov 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>BIJHRI</td><td>Kotlu (33/18)</td><td>05 Nov 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>Dr Sikander Kumar</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>Una</td><td>3</td><td>NA</td><td>NA</td><td>05 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/45766 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>PANCHRUKHI</td><td>Simbal (990)</td><td>05 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Badhera (26/19)</td><td>05 Nov 2023</td><td>300000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Badhera (26/19)</td><td>05 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>Dr Sikander Kumar</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Jhareri (26/16)</td><td>05 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Dr Sikander Kumar</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Badhera (26/19)</td><td>05 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Dr Sikander Kumar</td><td>NA - Installing hand pumps</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Badhera (26/19)</td><td>05 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Dr Sikander Kumar</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>NADAUN</td><td>Badhera (26/19)</td><td>05 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/45886 - Development of playground</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>TOTU</td><td>Pabar (393)</td><td>05 Nov 2023</td><td>200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/45887 - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>TOTU</td><td>Pabar (393)</td><td>05 Nov 2023</td><td>100000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Dr Sikander Kumar</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>5</td><td>NA</td><td>NA</td><td>05 Nov 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>MASHOBRA</td><td>Kanda (11/109)</td><td>10 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/48492 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>32</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/48494 - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>32</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dehra</td><td>2</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>NAGROTA SURIAN</td><td>Nandpur (461)</td><td>10 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>NAGROTA SURIAN</td><td>Nandpur (461)</td><td>10 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>THEOG</td><td>Palana (106)</td><td>25 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/52830 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>BALH</td><td>Balt (182)</td><td>25 Nov 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>Dr Sikander Kumar</td><td>WS/MP078/2023-2024/52837 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>BAIJNATH</td><td>Taras (837)</td><td>25 Nov 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dehra</td><td>3</td><td>NA</td><td>NA</td><td>25 Nov 2023</td><td>100000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>PRAGPUR</td><td>Suneht (46)</td><td>25 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dehra</td><td>5</td><td>NA</td><td>NA</td><td>25 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dehra</td><td>1</td><td>NA</td><td>NA</td><td>25 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dehra</td><td>2</td><td>NA</td><td>NA</td><td>25 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Dehra</td><td>03</td><td>NA</td><td>NA</td><td>25 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>Santokhgarh</td><td>6</td><td>NA</td><td>NA</td><td>25 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>UNA</td><td>Up Mahal Bhatoli College (231)</td><td>25 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>UNA</td><td>Raipur Upperla (218)</td><td>25 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>Dr Sikander Kumar</td><td>NA - Street lights</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Tauni Devi Bamson</td><td>Barin (45/62)</td><td>24 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>Ms Indu Bala Goswami</td><td>NA - Purchase Books for Library</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>Kangra</td><td>1</td><td>NA</td><td>NA</td><td>28 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>Ms Indu Bala Goswami</td><td>NA - Purchase Books for Library</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>Chamba</td><td>2</td><td>NA</td><td>NA</td><td>28 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>Dr Sikander Kumar</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Hamirpur</td><td>Changar (39/4)</td><td>29 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Hamirpur</td><td>Ukhali (42/15)</td><td>29 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Bhoranj</td><td>Ukhali (42/15)</td><td>29 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>Dr Sikander Kumar</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>17</td><td>NA</td><td>NA</td><td>29 Dec 2023</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Hamirpur</td><td>Lahar (46/30)</td><td>29 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>Dr Sikander Kumar</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>Una</td><td>9</td><td>NA</td><td>NA</td><td>01 Feb 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>Jubbal</td><td>Kathasu (62/1)</td><td>09 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Kuklah (547)</td><td>10 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>Ms Indu Bala Goswami</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Bali Chowki (611)</td><td>10 Feb 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Bali Chowki (611)</td><td>10 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>Ms Indu Bala Goswami</td><td>NA - Development of playfields and sports grounds</td><td>Repair and Renovation</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Katwanu (673)</td><td>10 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Bali Chowki (611)</td><td>10 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Khanni (625)</td><td>10 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Deodhar (606)</td><td>10 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Nalwagi (536)</td><td>10 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>Ms Indu Bala Goswami</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Bali Chowki</td><td>Khauli (690)</td><td>10 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>Dr Sikander Kumar</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>Dera Gopipur</td><td>Tali (634)</td><td>11 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Dr Sikander Kumar</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KANGRA_IDA</td><td>NA</td><td>NA</td><td>Dera Gopipur</td><td>Tali (634)</td><td>11 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>Dr Sikander Kumar</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>Jubbal</td><td>Astandli (56)</td><td>17 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BILASPUR_IDA</td><td>NA</td><td>NA</td><td>Jhanduta</td><td>Badol (172)</td><td>17 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BILASPUR_IDA</td><td>NA</td><td>NA</td><td>Jhanduta</td><td>Kathiun (17)</td><td>17 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KULLU_IDA</td><td>NA</td><td>NA</td><td>Kullu</td><td>Up Muhal Sarsai</td><td>17 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Narkanda</td><td>Narkanda (NP) - Ward No.1</td><td>NA</td><td>NA</td><td>17 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>NA</td><td>NA</td><td>Shimla ( Rural )</td><td>Up Muhal Hiranagar</td><td>17 Feb 2024</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>SHRI Jagat Prakash Nadda</td><td>NA - construction of staircase/ stair ghat for public convenience</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>Shimla (M Corp.) - Ward No.15</td><td>NA</td><td>NA</td><td>17 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>Shimla (M Corp.) - Ward No.14</td><td>NA</td><td>NA</td><td>17 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>Shimla (M Corp.) - Ward No.2</td><td>NA</td><td>NA</td><td>17 Feb 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SHIMLA_IDA</td><td>Shimla</td><td>Shimla (M Corp.) - Ward No.12</td><td>NA</td><td>NA</td><td>17 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>NA</td><td>NA</td><td>Bharmour</td><td>Grima (118)</td><td>19 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>NA</td><td>NA</td><td>Bharmour</td><td>Palan (42)</td><td>19 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>NA</td><td>NA</td><td>Bharmour</td><td>Malkauta (94)</td><td>19 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>NA</td><td>NA</td><td>Bharmour</td><td>Bharmour (97)</td><td>19 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CHAMBA_IDA</td><td>NA</td><td>NA</td><td>Bharmour</td><td>Sachuin (99)</td><td>19 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Balh</td><td>Gora Gagal (214)</td><td>19 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Balh</td><td>Kehad (290)</td><td>19 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Balh</td><td>Kummi (230)</td><td>19 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER MANDI_IDA</td><td>NA</td><td>NA</td><td>Balh</td><td>Kasarla (199)</td><td>19 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>Amb</td><td>Sidh Chalet (74)</td><td>20 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>Gagret</td><td>Gagret (140)</td><td>20 Feb 2024</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>Gagret</td><td>Gagret (140)</td><td>20 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>SHRI Jagat Prakash Nadda</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIOENR UNA_IDA</td><td>NA</td><td>NA</td><td>Gagret</td><td>Gagret (140)</td><td>20 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>Dr Sikander Kumar</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Nadaun</td><td>Badhera (17/14)</td><td>03 Mar 2024</td><td>57050</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>Dr Sikander Kumar</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Kangoo</td><td>Malag (26/20)</td><td>03 Mar 2024</td><td>32600</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>Dr Sikander Kumar</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Himachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER HAMIRPUR_IDA</td><td>NA</td><td>NA</td><td>Nadaun</td><td>Dhaneta (17/7)</td><td>03 Mar 2024</td><td>16300</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

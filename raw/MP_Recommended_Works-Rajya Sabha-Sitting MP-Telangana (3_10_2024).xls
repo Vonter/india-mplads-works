@@ -1,0 +1,679 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>5</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Kodad</td><td>13</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1223 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Nereducharla</td><td>15</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1224 - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>499398</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1225 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NUTHANKAL</td><td>Talla Singaram</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NUTHANKAL</td><td>Talla Singaram</td><td>15 Jun 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NUTHANKAL</td><td>Talla Singaram</td><td>15 Jun 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NUTHANKAL</td><td>Chilpa Kunta</td><td>15 Jun 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1229 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>14</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1230 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>HUZURNAGAR</td><td>LINGAGIRI</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1231 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NADIGUDEM</td><td>Tellabali</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1232 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NADIGUDEM</td><td>Tellabali</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1233 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NADIGUDEM</td><td>Tellabali</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>27</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1235 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/1236 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>15 Jun 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/19538 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>VALIGONDA</td><td>Redla Repaka</td><td>13 Sep 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23032 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23033 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23034 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23035 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23056 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MUNUGODE</td><td>Kompalle</td><td>19 Sep 2023</td><td>5000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MARRIGUDA</td><td>Indurthi</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23058 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MIRYALAGUDA</td><td>Alagadapa</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nakrekal</td><td>ward 7</td><td>NA</td><td>NA</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Haliya</td><td>Ward 5</td><td>NA</td><td>NA</td><td>19 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23061 - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NAKREKAL</td><td>Tatikal</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nakrekal</td><td>ward 5</td><td>NA</td><td>NA</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23070 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NALGONDA</td><td>Narsing Batla</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23071 - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Madugulapally</td><td>Agamothkur</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NAKREKAL</td><td>Tatikal</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>THIPPARTHI</td><td>Yerragantlagudem</td><td>19 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23076 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KATTANGOOR</td><td>MUTHYALAMMAGUDEM</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23077 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KATTANGOOR</td><td>MUTHYALAMMAGUDEM</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23078 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>THIPPARTHI</td><td>Kankanala Palle</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23079 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>THIPPARTHI</td><td>Kankanala Palle</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23092 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>DAMERACHERLA</td><td>Dilvarpuram</td><td>19 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>PEDDAVOORA</td><td>Parvedula</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>PEDDAVOORA</td><td>Parvedula</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nalgonda</td><td>ward 9</td><td>NA</td><td>NA</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nalgonda</td><td>ward 33</td><td>NA</td><td>NA</td><td>19 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23108 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Yacharam</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23109 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Ramadugu</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23110 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Marepally</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23111 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Ramadugu</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23112 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Annaram</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23113 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Srinadhapuru</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23114 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Thimmapuru</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23115 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Pulimamidi</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23116 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>HAZARIGUDA</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23117 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Peruru</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23118 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Annaram</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23119 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>NAIDUPALEM</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/23120 - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>ANUMULA</td><td>Palem</td><td>19 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/30632 - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>NARAYANAPUR</td><td>Puttapaka</td><td>03 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>Choutuppal</td><td>9</td><td>NA</td><td>NA</td><td>03 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>VALIGONDA</td><td>Velverthy</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>VALIGONDA</td><td>Velverthy</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>VALIGONDA</td><td>Pulgilla</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>VALIGONDA</td><td>Pulgilla</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>VALIGONDA</td><td>Mogilipaka</td><td>03 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>Bhongir</td><td>6th ward</td><td>NA</td><td>NA</td><td>03 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/34765 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>09 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/34766 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>09 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/34767 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>09 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/34768 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Bheemavaram</td><td>09 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>NARASIMHULAGUDEM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>JAGANNADHAPURAM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>JAGANNADHAPURAM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>JAGANNADHAPURAM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>MUNAGALA</td><td>JAGANNADHAPURAM</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Thogarrai</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Chimiryala</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Chimiryala</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Chimiryala</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Gudibanda</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Ganapavaram</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Ganapavaram</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Ganapavaram</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Ganapavaram</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Ganapavaram</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Redla Kunta</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>KODAD</td><td>Redla Kunta</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>5</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>5</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>5</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>27</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>40</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>1</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>2500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>40</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>41</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>30</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Street lights</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>NA</td><td>NA</td><td>NUTHANKAL</td><td>Talla Singaram</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>5</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>5</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>3</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>3</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>8</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>3</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>3</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>3</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>3</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>1</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>2</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Yellareddy Guda</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>09 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>09 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nakrekal</td><td>2</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NAKREKAL</td><td>Chandupatla</td><td>09 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SURYAPET_IDA</td><td>Suryapet</td><td>1</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/60945 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR JOGULAMBA GADWAL_IDA</td><td>NA</td><td>NA</td><td>IEEJA</td><td>Sindhanoor</td><td>12 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>SHRI Badugula lingaiah Yadav</td><td>WS/MP169/2023-2024/60946 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR JOGULAMBA GADWAL_IDA</td><td>NA</td><td>NA</td><td>IEEJA</td><td>Sindhanoor</td><td>12 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Street lights</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Koppole</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Koppole</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Shagazipur</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Makka Palle</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Koppole</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Sakhapur</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Tummadam</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>TUMMADAM</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Marpaka</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Tenepalle</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Mosangi</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Thanedar Palle</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Sakhapur</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Surepalle</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Mupparam</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Tummadam</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Chamled</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Vattikode</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Palwai</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Regulagadda</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>NANDIKONDAVARIGUDEM</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NIDAMANOOR</td><td>Surepalle</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>GURRAMPODE</td><td>Sulthanpur</td><td>16 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MUNUGODE</td><td>Kothularam</td><td>16 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MIRYALAGUDA</td><td>Alagadapa</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Cheruku Palle</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Kethepalle</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Setting up of farmers’ training and assistance centers</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KATTANGOOR</td><td>Aiti Pamula</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Chityal</td><td>4</td><td>NA</td><td>NA</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nakrekal</td><td>20</td><td>NA</td><td>NA</td><td>16 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>16 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Setting up of farmers’ training and assistance centers</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>16 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NARKETPALLY</td><td>Narketpalle</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>165</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Establishing public lift irrigation projects</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Inpamula</td><td>16 Dec 2023</td><td>2660000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>166</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Establishing public lift irrigation projects</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>KETHE PALLY</td><td>Cheruku Palle</td><td>16 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>167</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NALGONDA</td><td>Appaji Peta</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>168</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>THIPPARTHI</td><td>Kankanala Palle</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>169</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>VEMULA PALLY</td><td>Ravula Penta</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>170</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR RANGAREDDY_IDA</td><td>NA</td><td>NA</td><td>YACHARAM</td><td>Yacharam</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>171</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR RANGAREDDY_IDA</td><td>NA</td><td>NA</td><td>YACHARAM</td><td>Yacharam</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>172</td><td>Dr K Keshava Rao</td><td>WS/MP167/2023-2024/67954 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>DAMERACHERLA</td><td>Wadapalli</td><td>22 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>173</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>DAMERACHERLA</td><td>Wadapalli</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>174</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>VEMULA PALLY</td><td>Settipalem</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>175</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MIRYALAGUDA</td><td>Yadgarpalle</td><td>22 Dec 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>176</td><td>Dr K Keshava Rao</td><td>WS/MP167/2023-2024/68055 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NAKREKAL</td><td>Nomula</td><td>22 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>177</td><td>Dr K Keshava Rao</td><td>WS/MP167/2023-2024/68056 - Improvement of electricity distribution infrastructure</td><td>Repair and Renovation</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>NAKREKAL</td><td>Nomula</td><td>22 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>178</td><td>Dr K Keshava Rao</td><td>WS/MP167/2023-2024/68057 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>MIRYALAGUDA</td><td>Yadgarpalle</td><td>22 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>179</td><td>Dr K Keshava Rao</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Narketpally</td><td>Thirumalagiri</td><td>23 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>180</td><td>Dr K Keshava Rao</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Narketpally</td><td>Nemmani</td><td>23 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>181</td><td>Dr K Keshava Rao</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Narketpally</td><td>Mandra</td><td>23 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>182</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>Bommalaramaram</td><td>Mariyala</td><td>09 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>183</td><td>SHRI Ravichandra Vaddiraju</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KHAMMAM_IDA</td><td>Khammam</td><td>13 division</td><td>NA</td><td>NA</td><td>17 Jan 2024</td><td>1350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>184</td><td>SHRI Ravichandra Vaddiraju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>District Collector Bhadradri Ktdm_IDA</td><td>NA</td><td>NA</td><td>Burgampahad</td><td>Burgampadu</td><td>17 Jan 2024</td><td>1992000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>185</td><td>SHRI Ravichandra Vaddiraju</td><td>NA - Street lights</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Kethepally</td><td>Cheruku Palle</td><td>17 Jan 2024</td><td>996000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>186</td><td>SHRI Ravichandra Vaddiraju</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>District Collector Bhadradri Ktdm_IDA</td><td>Kothagudem</td><td>District Hospital, </td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>990000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>187</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Kethepally</td><td>Bheemavaram</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>188</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Kethepally</td><td>Bheemavaram</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>189</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Kethepally</td><td>Bheemavaram</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>190</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Kethepally</td><td>Bheemavaram</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>191</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Kethepally</td><td>Bheemavaram</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>192</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Nampally</td><td>Ganugu Palle</td><td>25 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>193</td><td>SHRI Badugula lingaiah Yadav</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Nampally</td><td>Ganugu Palle</td><td>25 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>194</td><td>SHRI Ravichandra Vaddiraju</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR RAJANNA SIRCILLA_IDA</td><td>Vemulawada</td><td>8th</td><td>NA</td><td>NA</td><td>29 Jan 2024</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>195</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Kammarpally</td><td>Choutupalle</td><td>04 Feb 2024</td><td>1200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>196</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Dichpally</td><td>Dichpalle</td><td>04 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>197</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Dichpally</td><td>Koratpalle</td><td>04 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>198</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Dichpally</td><td>Dichpalle</td><td>04 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>199</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>Nizamabad</td><td>Kasabgally, Ward No. 49</td><td>NA</td><td>NA</td><td>04 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>200</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Bheemgal</td><td>Bejjora</td><td>04 Feb 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>201</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Kammarpally</td><td>Choutupalle</td><td>04 Feb 2024</td><td>1200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>202</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR WANAPARTHY_IDA</td><td>NA</td><td>NA</td><td>Ghanpur</td><td>Mamidimada</td><td>04 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>203</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR WANAPARTHY_IDA</td><td>NA</td><td>NA</td><td>Ghanpur</td><td>Mamidimada</td><td>04 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>204</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR WANAPARTHY_IDA</td><td>NA</td><td>NA</td><td>Ghanpur</td><td>Shapur</td><td>04 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>205</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KARIMNAGAR_IDA</td><td>NA</td><td>NA</td><td>Choppadandi</td><td>Choppadandi</td><td>04 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>206</td><td>SHRI K R Suresh Reddy</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KARIMNAGAR_IDA</td><td>NA</td><td>NA</td><td>Choppadandi</td><td>Choppadandi</td><td>04 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>207</td><td>Dr K Keshava Rao</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR YADADRI BHUVANAGIRI_IDA</td><td>NA</td><td>NA</td><td>Valigonda</td><td>Velverthy</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>208</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Devarakonda</td><td>Devarakonda (CT) - Ward No.5</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>209</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Devarakonda</td><td>Devarakonda (CT) - Ward No.5</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>210</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Devarakonda</td><td>Devarakonda (CT) - Ward No.5</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>211</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Devarakonda</td><td>Devarakonda (CT) - Ward No.5</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>212</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Devarakonda</td><td>Devarakonda (CT) - Ward No.16</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>213</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Devarakonda</td><td>Devarakonda (CT) - Ward No.16</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>214</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Thipparthy</td><td>Yerragantlagudem</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>215</td><td>Dr K Keshava Rao</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Thipparthy</td><td>Yerragantlagudem</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>216</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>NA</td><td>NA</td><td>Thipparthy</td><td>Pajjur</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>217</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NALGONDA_IDA</td><td>Nalgonda</td><td>Nalgonda (M) - Ward No.33</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>218</td><td>Dr K Keshava Rao</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR ADILABAD_IDA</td><td>NA</td><td>NA</td><td>Jainath</td><td>Mangurla</td><td>21 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>219</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>District Collector Warangal_IDA</td><td>NA</td><td>NA</td><td>Chennaraopet</td><td>Chennaraopet</td><td>03 Mar 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>220</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>District Collector Warangal_IDA</td><td>NA</td><td>NA</td><td>Chennaraopet</td><td>Chennaraopet</td><td>03 Mar 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>221</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>District Collector Warangal_IDA</td><td>NA</td><td>NA</td><td>Chennaraopet</td><td>Chennaraopet</td><td>03 Mar 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>222</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>District Collector Warangal_IDA</td><td>NA</td><td>NA</td><td>Chennaraopet</td><td>Chennaraopet</td><td>03 Mar 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>223</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Mugpal</td><td>Borgaon (P)</td><td>03 Mar 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>224</td><td>SHRI K R Suresh Reddy</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Telangana</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NIZAMABAD_IDA</td><td>NA</td><td>NA</td><td>Bheemgal</td><td>Bejjora</td><td>03 Mar 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

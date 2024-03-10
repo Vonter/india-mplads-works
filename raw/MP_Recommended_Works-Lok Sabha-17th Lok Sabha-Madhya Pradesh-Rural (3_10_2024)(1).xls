@@ -1,0 +1,40 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/20677 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>GHATIYA</td><td>Chhitar Devi</td><td>15 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21614 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Lasurdiyabechar</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21621 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Dabdarajput</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21622 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Suwagaon</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21623 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Pachola</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21624 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Guradiyagujar</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21625 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Kathbadoda</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Shri Anil Firojiya (17th Lok Sabha)</td><td>WS/MP360/2023-2024/21628 - Purchase of mobile water tankers</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>UJJAIN(SC)</td><td>DISTRICT COLLECTOR UJJAIN_IDA</td><td>NA</td><td>NA</td><td>TARANA</td><td>Dobdagujar</td><td>16 Sep 2023</td><td>156733</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Uday Pratap Singh(17th Lok Sabha)</td><td>WS/MP651/2023-2024/30253 - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>HOSHANGABAD</td><td>DISTRICT COLLECTOR NARSINGHPUR_IDA</td><td>NA</td><td>NA</td><td>KARELI</td><td>Bikor</td><td>02 Oct 2023</td><td>50000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Prahlad Singh Patel(17th Lok Sabha)</td><td>WS/MP646/2023-2024/32154 - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>DAMOH</td><td>DISTRICT COLLECTOR DAMOH_IDA</td><td>NA</td><td>NA</td><td>TENDUKHEDA</td><td>Badipura</td><td>05 Oct 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Prahlad Singh Patel(17th Lok Sabha)</td><td>WS/MP646/2023-2024/32180 - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Madhya Pradesh</td><td>DAMOH</td><td>DISTRICT COLLECTOR DAMOH_IDA</td><td>NA</td><td>NA</td><td>DAMOH</td><td>Marhahar</td><td>05 Oct 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr>
+	</table>
+</div>

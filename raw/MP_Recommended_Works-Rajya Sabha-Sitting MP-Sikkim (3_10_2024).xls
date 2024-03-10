@@ -1,0 +1,205 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>19 Aug 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11204 - Purchase of sports equipment</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>19 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11205 - Development of playground</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Ringhim</td><td>19 Aug 2023</td><td>1800000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11325 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>19 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11326 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Nampatam</td><td>19 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11335 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Singchit</td><td>20 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11336 - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>07- Development area</td><td>NA</td><td>NA</td><td>20 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR PAKYONG_IDA</td><td>NA</td><td>NA</td><td>PAKYONG</td><td>Pakyong Bazar</td><td>20 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11338 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Nampatam</td><td>20 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>SORENG</td><td>Soreng</td><td>20 Aug 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11340 - Development of public parks</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>20 Aug 2023</td><td>5000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>GYALSHING</td><td>Gyalsing</td><td>20 Aug 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11342 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NAMCHI_IDA</td><td>NA</td><td>NA</td><td>RAVANGLA</td><td>Sangmo</td><td>20 Aug 2023</td><td>800000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/11580 - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Singchit</td><td>21 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12310 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>23 Aug 2023</td><td>800000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12327 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>28- Upper Burtuk</td><td>NA</td><td>NA</td><td>23 Aug 2023</td><td>5000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12349 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>2-Lower Burtuk</td><td>NA</td><td>NA</td><td>23 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI Hishey Lachungpa</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Tingchim</td><td>23 Aug 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI Hishey Lachungpa</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Chungthang</td><td>23 Aug 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>1600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>23 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Toong</td><td>23 Aug 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>SHRI Hishey Lachungpa</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12396 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>17-Luing PerbingGPU</td><td>NA</td><td>NA</td><td>23 Aug 2023</td><td>800000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12408 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>28-upper Burtuk</td><td>NA</td><td>NA</td><td>23 Aug 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI Hishey Lachungpa</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12440 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>23 Aug 2023</td><td>1200000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12442 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>KABI TINGDA</td><td>Tingda</td><td>23 Aug 2023</td><td>3000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>23 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/12480 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>KABI TINGDA</td><td>Shotak</td><td>23 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Passingdang</td><td>Sangtok Sagyong</td><td>23 Aug 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Singchit</td><td>23 Aug 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>25 Aug 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/30038 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>ward no 17-Tadong</td><td>NA</td><td>NA</td><td>02 Oct 2023</td><td>3000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>SHRI Hishey Lachungpa</td><td>WS/MP174/2023-2024/30165 - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>ward no 4-upper Sichey</td><td>NA</td><td>NA</td><td>02 Oct 2023</td><td>400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>SHRI Hishey Lachungpa</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Passingdang</td><td>Lower Dzongu Forest Block</td><td>03 Oct 2023</td><td>1600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Pakshep</td><td>03 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>SHRI Hishey Lachungpa</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>Mangan Nagar Panchayat</td><td>ward no 01 upper Mangan</td><td>NA</td><td>NA</td><td>03 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>SHRI Hishey Lachungpa</td><td>NA - Common work sheds for artisans</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>03 Oct 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>03 Oct 2023</td><td>2200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>MANGAN</td><td>Nampatam</td><td>03 Oct 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>03 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>03 Oct 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of foot over bridge (FOB)</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>03 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>SHRI Hishey Lachungpa</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>NA</td><td>NA</td><td>RANKA</td><td>Ranka</td><td>01 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>SHRI Hishey Lachungpa</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>NA</td><td>NA</td><td>MARTAM</td><td>Ranka</td><td>01 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>SHRI Hishey Lachungpa</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR NAMCHI_IDA</td><td>NA</td><td>NA</td><td>RAVANGLA</td><td>Jarrong</td><td>10 Nov 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>10 Nov 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachen</td><td>22 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>01 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachen</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>SHRI Hishey Lachungpa</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>SHRI Hishey Lachungpa</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Mangan</td><td>Zimchung</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>SHRI Hishey Lachungpa</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

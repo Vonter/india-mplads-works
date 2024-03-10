@@ -1,0 +1,241 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>SHRI K Vanlalvena</td><td>NA - Construction of retaining wall</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI K Vanlalvena</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI K Vanlalvena</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>SHRI K Vanlalvena</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI K Vanlalvena</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI K Vanlalvena</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI K Vanlalvena</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI K Vanlalvena</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI K Vanlalvena</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>SHRI K Vanlalvena</td><td>NA - Construction of buildings for community cultural activities</td><td>Repair and Renovation</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>SHRI K Vanlalvena</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>SHRI K Vanlalvena</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI K Vanlalvena</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>SHRI K Vanlalvena</td><td>NA - Purchase of sanitary pad vending machine and incinerators</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>117000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>SHRI K Vanlalvena</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>SHRI K Vanlalvena</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>SHRI K Vanlalvena</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>VIII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>SHRI K Vanlalvena</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl</td><td>SOUTH 3</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>SHRI K Vanlalvena</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>VI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>SHRI K Vanlalvena</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>II</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>SHRI K Vanlalvena</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>II</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>NA</td><td>NA</td><td>WEST PHAILENG</td><td>Saithah</td><td>09 Dec 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>NA</td><td>NA</td><td>ZAWLNUAM</td><td>Bawngva</td><td>09 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>BILKHAWTHLIR</td><td>Pangbalkawn</td><td>09 Dec 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>BILKHAWTHLIR</td><td>Bilkhawthlir North</td><td>09 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>SHRI K Vanlalvena</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>BILKHAWTHLIR</td><td>Vairengte I</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>THINGDAWL</td><td>Lungdai</td><td>09 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>THINGDAWL</td><td>Bualpui North</td><td>09 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>THINGDAWL</td><td>Kawnpui III</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Kolasib_IDA</td><td>NA</td><td>NA</td><td>BILKHAWTHLIR</td><td>Kolasib Diakkawn</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Serchhip_IDA</td><td>NA</td><td>NA</td><td>East Lungdar</td><td>Mualcheng</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Serchhip_IDA</td><td>NA</td><td>NA</td><td>East Lungdar</td><td>Mualcheng</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Serchhip_IDA</td><td>NA</td><td>NA</td><td>East Lungdar</td><td>Leng</td><td>09 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>X</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>SHRI K Vanlalvena</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>X</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>SHRI K Vanlalvena</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>X</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>NA</td><td>NA</td><td>ZAWLNUAM</td><td>Borai</td><td>09 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>SHRI K Vanlalvena</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Repair and Renovation</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>NA</td><td>NA</td><td>ZAWLNUAM</td><td>Suarhliap</td><td>09 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>SHRI K Vanlalvena</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Hnahthial_IDA</td><td>NA</td><td>NA</td><td>HNAHTHIAL</td><td>Rawpui</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>NA</td><td>NA</td><td>REIEK</td><td>Nghalchawm</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Serchhip_IDA</td><td>NA</td><td>NA</td><td>East Lungdar</td><td>Lungkawlh</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Champhai_IDA</td><td>NA</td><td>NA</td><td>KHAWBUNG</td><td>Vanzau</td><td>09 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Champhai_IDA</td><td>NA</td><td>NA</td><td>KHAWBUNG</td><td>Vanzau</td><td>09 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>SHRI K Vanlalvena</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>III</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Serchhip_IDA</td><td>NA</td><td>NA</td><td>Serchhip</td><td>Thenzawl West</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>SHRI K Vanlalvena</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Serchhip_IDA</td><td>NA</td><td>NA</td><td>Serchhip</td><td>Thenzawl West</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Repair and Renovation</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>II</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>SHRI K Vanlalvena</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>SHRI K Vanlalvena</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>NA</td><td>NA</td><td>AIBAWK</td><td>Phulpui</td><td>09 Dec 2023</td><td>483000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>SHRI K Vanlalvena</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Lunglei_IDA</td><td>Lunglei</td><td>IX</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>SHRI K Vanlalvena</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Saitual_IDA</td><td>NA</td><td>NA</td><td>NGOPA</td><td>Teikhang</td><td>09 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XVIII</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>SHRI K Vanlalvena</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Lawngtlai_IDA</td><td>NA</td><td>NA</td><td>SANGAU</td><td>Pangkhua</td><td>09 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>SHRI K Vanlalvena</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>NA</td><td>NA</td><td>DARLAWN</td><td>Zokhawthiang</td><td>09 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>SHRI K Vanlalvena</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>NA</td><td>NA</td><td>DARLAWN</td><td>North Serzawl</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>X</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>SHRI K Vanlalvena</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XIX</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>SHRI K Vanlalvena</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>NA</td><td>NA</td><td>DARLAWN</td><td>Sakawrdai</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>SHRI K Vanlalvena</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER AIZAWL_IDA</td><td>Aizawl Municipal Co-operation</td><td>XI</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>SHRI K Vanlalvena</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>Lengpui</td><td>Lengpui</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>SHRI K Vanlalvena</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Mizoram</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Mamit_IDA</td><td>NA</td><td>NA</td><td>REIEK</td><td>Lengte</td><td>09 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,40 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23411 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Laliyad</td><td>20 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23729 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Sontha</td><td>20 Sep 2023</td><td>350000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23731 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Karmad</td><td>20 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23732 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Karol</td><td>20 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23734 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Velavadar</td><td>20 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23989 - Street lights</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Korda</td><td>21 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23990 - Street lights</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Korda</td><td>21 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/23991 - Street lights</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Korda</td><td>21 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/24749 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>THANGADH</td><td>Manadasar</td><td>22 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>WS/MP322/2023-2024/35009 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR JUNAGADH_IDA</td><td>NA</td><td>NA</td><td>MANAVADAR</td><td>Kothadi</td><td>09 Oct 2023</td><td>294010</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/43294 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHUDA</td><td>Vaniyavadar</td><td>01 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr>
+	</table>
+</div>

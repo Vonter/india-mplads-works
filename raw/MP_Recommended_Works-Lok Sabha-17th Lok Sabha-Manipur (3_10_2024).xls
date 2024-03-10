@@ -1,0 +1,226 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38277 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Punanamei</td><td>18 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38282 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Chowainu</td><td>18 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38283 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Punanamei</td><td>18 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38284 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Shajouba</td><td>18 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38737 - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tamenglong_ida</td><td>NA</td><td>NA</td><td>TAMENGLONG</td><td>Chaengdai</td><td>19 Oct 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38740 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>LUNGCHONG MEIPHAI</td><td>Phalee</td><td>19 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38741 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>WILLONG</td><td>ZUIMI (THUIYENG)</td><td>19 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38742 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Tadubi</td><td>19 Oct 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38743 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>PHAIBUNG KHULLEN</td><td>Ngari Raidolumai</td><td>19 Oct 2023</td><td>1400000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38744 - Development of playground</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>WILLONG</td><td>Willong Khunou</td><td>19 Oct 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38745 - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Kayinu</td><td>19 Oct 2023</td><td>2500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38746 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Maram Kavanam</td><td>19 Oct 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38747 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Tadubi</td><td>19 Oct 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38748 - Development of playground</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>UKHRUL</td><td>New Cannon</td><td>19 Oct 2023</td><td>600000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38754 - Construction of water tanks</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tamenglong_ida</td><td>NA</td><td>NA</td><td>TAMENGLONG</td><td>DIMTHANLONG</td><td>19 Oct 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38755 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tamenglong_ida</td><td>NA</td><td>NA</td><td>TAMENGLONG</td><td>DIMTHANLONG</td><td>19 Oct 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/38756 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>LUNGCHONG MEIPHAI</td><td>Phalee</td><td>19 Oct 2023</td><td>2000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>WILLONG</td><td>Makulongdi</td><td>21 Dec 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Tadubi</td><td>Emesiiphro</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Tadubi</td><td>Mao Marafii</td><td>21 Dec 2023</td><td>2800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Tadubi</td><td>Taphou Naga</td><td>21 Dec 2023</td><td>2250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Emefiithumai</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Maram Sagonbam</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>PURUL</td><td>Koide Mathak</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>WILLONG</td><td>Rajamei</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Keibi</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>PAOMATA</td><td>Tungjoy</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>PURUL</td><td>Keiye</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Khabung Karong</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>SONG SONG</td><td>Song Song</td><td>22 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>TADUBI</td><td>Khabung Karong</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>LUNGCHONG MEIPHAI</td><td>Phalee</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>Chingai</td><td>Phungcham</td><td>23 Dec 2023</td><td>2400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>Ukhrul</td><td>Hungpung</td><td>23 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>Chingai</td><td>Marem</td><td>23 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kakching_ida</td><td>Kakching</td><td>Ward no. 7</td><td>NA</td><td>NA</td><td>04 Jan 2024</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Tadubi</td><td>Khamsom</td><td>06 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Song Song</td><td>Rabunamei</td><td>06 Jan 2024</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kangpokpi MPLADS_ida</td><td>NA</td><td>NA</td><td>Saikul</td><td>Ichailamlan</td><td>06 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/76770 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Noney_ida</td><td>NA</td><td>NA</td><td>Longmai</td><td>Dollang</td><td>06 Jan 2024</td><td>700000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kamjong MPLADS_ida</td><td>NA</td><td>NA</td><td>Sahamphung</td><td>Chatric</td><td>06 Jan 2024</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kamjong MPLADS_ida</td><td>NA</td><td>NA</td><td>Phungyar</td><td>Kumram</td><td>06 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tengnoupal MPLADS_ida</td><td>NA</td><td>NA</td><td>Tengnoupal</td><td>Theimungkung</td><td>06 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Willong</td><td>Willong Khunou</td><td>07 Jan 2024</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kamjong MPLADS_ida</td><td>NA</td><td>NA</td><td>Kamjong</td><td>Ramphoi</td><td>08 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Willong</td><td>Makulongdi</td><td>10 Jan 2024</td><td>4800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kangpokpi MPLADS_ida</td><td>NA</td><td>NA</td><td>Island</td><td>Kamu Saichang</td><td>06 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>Jessami</td><td>Chingjaroi Christian</td><td>11 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tengnoupal MPLADS_ida</td><td>NA</td><td>NA</td><td>Tengnoupal</td><td>Theimungkung</td><td>11 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/80050 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Noney_ida</td><td>NA</td><td>NA</td><td>Nungba</td><td>Rongdai</td><td>11 Jan 2024</td><td>600000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tengnoupal MPLADS_ida</td><td>NA</td><td>NA</td><td>Machi</td><td>Tengkonbung</td><td>12 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Tadubi</td><td>Lairoching</td><td>12 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Noney_ida</td><td>NA</td><td>NA</td><td>Nungba</td><td>Rongdai</td><td>13 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Noney_ida</td><td>NA</td><td>NA</td><td>Longmai</td><td>Dollang</td><td>13 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Noney_ida</td><td>NA</td><td>NA</td><td>Nungba</td><td>Rongdai</td><td>13 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>Chingai</td><td>Khamasom</td><td>15 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>LM</td><td>Hoomi(Huime)</td><td>15 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>LM</td><td>Tolloi(Talui)</td><td>15 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kangpokpi MPLADS_ida</td><td>NA</td><td>NA</td><td>Champhai</td><td>Mayangkhang</td><td>15 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kamjong MPLADS_ida</td><td>NA</td><td>NA</td><td>Phungyar</td><td>Marou</td><td>23 Jan 2024</td><td>450000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>WS/MP367/2023-2024/87573 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Noney_ida</td><td>NA</td><td>NA</td><td>Khoupum</td><td>Khoupum</td><td>15 Jan 2024</td><td>1000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Tamenglong_ida</td><td>NA</td><td>NA</td><td>Tamenglong West</td><td>Taningjam</td><td>23 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Chandel_ida</td><td>NA</td><td>NA</td><td>Chandel</td><td>Japhou Bazar Town</td><td>23 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Ukhrul_ida</td><td>NA</td><td>NA</td><td>Ukhrul</td><td>Ukhrul (Ct)</td><td>29 Jan 2024</td><td>750000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Willong</td><td>Makulongdi</td><td>02 Feb 2024</td><td>4800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Tadubi</td><td>Khabung Karong</td><td>02 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Song Song</td><td>Rabunamei</td><td>02 Feb 2024</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Senapati_IDA</td><td>NA</td><td>NA</td><td>Willong</td><td>Willong Khunou</td><td>02 Feb 2024</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Ranjan Singh Rajkumar(17th Lok Sabha)</td><td>NA - Construction of night shelters for homeless</td><td>Normal/Others</td><td>Manipur</td><td>INNER MANIPUR</td><td>Deputy Commissioner Imphal East_IDA</td><td>NA</td><td>NA</td><td>Sawombung</td><td>Pukhao Ahallup</td><td>12 Feb 2024</td><td>1300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Ranjan Singh Rajkumar(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Manipur</td><td>INNER MANIPUR</td><td>Deputy Commissioner Imphal West MPLADS_IDA</td><td>NA</td><td>NA</td><td>Patsoi</td><td>Patsoi Part I Part II Part III Part IV</td><td>12 Feb 2024</td><td>4850000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Ranjan Singh Rajkumar(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Manipur</td><td>INNER MANIPUR</td><td>Deputy Commissioner Imphal East_IDA</td><td>NA</td><td>NA</td><td>Porompat</td><td>Kongba Nongthombam (Thambalkhong Laishram Leikai)</td><td>12 Feb 2024</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Ranjan Singh Rajkumar(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Manipur</td><td>INNER MANIPUR</td><td>Deputy Commissioner Imphal East_IDA</td><td>Imphal</td><td>Imc Ward 18</td><td>NA</td><td>NA</td><td>12 Feb 2024</td><td>4000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Shri Lorho S Pfoze (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Manipur</td><td>OUTER MANIPUR(ST)</td><td>Deputy Commissioner Kakching_ida</td><td>NA</td><td>NA</td><td>Kakching</td><td>Khelakhong</td><td>23 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,718 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - levelling of Playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST KHASI HILLS NONGSTOIN_IDA</td><td>NA</td><td>NA</td><td>Nongstoin</td><td>Nongkhlaw A</td><td>02 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of Playground of the KJP Synod Sepngi at Nongum Village</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EASTERN WEST KHASI HILLS MAIRANG_IDA</td><td>NA</td><td>NA</td><td>Mairang</td><td>Nongum</td><td>02 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>Shillong</td><td>Lawjynriew</td><td>NA</td><td>NA</td><td>15 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>Shillong</td><td>Mawtawar, Mawlai</td><td>NA</td><td>NA</td><td>15 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>Shillong</td><td>Nongkohlew</td><td>NA</td><td>NA</td><td>15 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawpat</td><td>Mawpat (Ct)</td><td>16 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawryngkneng</td><td>Mawlynrei</td><td>16 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawpat</td><td>Nongmensong (Ct)</td><td>16 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawryngkneng</td><td>Mawlynrei</td><td>16 Jan 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Lad Wahwapung</td><td>16 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>16 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Lad Rymbai Datsimpein</td><td>16 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>16 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Dkhiah East</td><td>16 Jan 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>16 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawphlang</td><td>Mawreng</td><td>16 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Pamra Kmai</td><td>16 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Byndihati</td><td>16 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Bamkhosngi</td><td>16 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Mynthlu</td><td>16 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Amlarem</td><td>Jarain</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Mynso B</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawpat</td><td>Nongthymmai (Ct)</td><td>24 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>Shillong</td><td>15</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Purchase of immovable sports equipment</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>Shillong</td><td>17</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sumer</td><td>24 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawryngkneng</td><td>Mawlynrei</td><td>24 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of buildings for training institutions</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER RIBHOI NONGPOH_IDA</td><td>NA</td><td>NA</td><td>Umsning</td><td>Umsaw Khwan</td><td>24 Jan 2024</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of buildings for training institutions</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Narwan</td><td>24 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Ranikor</td><td>Domshken</td><td>24 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of foot over bridge (FOB)</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Ranikor</td><td>Nongkynbah</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Ranikor</td><td>Dirang</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Ranikor</td><td>Nongkdait-Nongtwah</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Ranikor</td><td>Wahbamon Dewsaw</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Ranikor</td><td>Mawshaliah</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER SOUTH WEST KHASI HILLS MAWKRYWAT_IDA</td><td>NA</td><td>NA</td><td>Mawkyrwat</td><td>Mawlangwir</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EASTERN WEST KHASI HILLS MAIRANG_IDA</td><td>NA</td><td>NA</td><td>Mawthadraishan</td><td>Pariong</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawsynram</td><td>Dangar Dombah (Khasi)</td><td>24 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Sohiong</td><td>Pdengshnong Lyngkhoi</td><td>24 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawphlang</td><td>Mawngap Mawkharshiing</td><td>24 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Wapung Skur</td><td>25 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Wapung Skur</td><td>25 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawryngkneng</td><td>Lumkseh</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST KHASI HILLS NONGSTOIN_IDA</td><td>Mairang</td><td>1</td><td>NA</td><td>NA</td><td>25 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sumer</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>25 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>25 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Purchase of mobile sanitation equipment</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER RIBHOI NONGPOH_IDA</td><td>Nongpoh</td><td>11</td><td>NA</td><td>NA</td><td>25 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Jalaphet Bri-Sutnga</td><td>25 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawphlang</td><td>Mission Mawphlang</td><td>25 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Jalyiah</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Jalyiah</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Sohiong</td><td>Pdengshnong Lyngkhoi</td><td>25 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawryngkneng</td><td>Siejiong</td><td>25 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Kuliang</td><td>26 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Tangnub</td><td>26 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Sakwa</td><td>26 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Lelad</td><td>26 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>Shillong</td><td>2</td><td>NA</td><td>NA</td><td>26 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Repair and Renovation</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Moolamanoh</td><td>26 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Umkiang</td><td>14 Feb 2024</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Borsora</td><td>14 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Umkiang</td><td>14 Feb 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Pyrtakuna</td><td>14 Feb 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of buildings for sports facilities</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Narwan</td><td>14 Feb 2024</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Latyrke</td><td>14 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Shnongrim</td><td>14 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Hingaria</td><td>14 Feb 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Mookympad</td><td>14 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Mookympad</td><td>14 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Mookympad</td><td>14 Feb 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Moopala</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Wapung</td><td>Sutnga</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Street lights</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Umkiang</td><td>14 Feb 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Lumshnong</td><td>Umkiang</td><td>14 Feb 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Tongseng Nongkhlieh</td><td>14 Feb 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Saipung</td><td>14 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Tuidam</td><td>14 Feb 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Thuruk</td><td>14 Feb 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Tlangmoi</td><td>14 Feb 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Saipung</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Lura</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Ngaibang</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of foot over bridge (FOB)</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Mualcheng</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Kulpui</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST JAINTIA HILLS KHLIEHRIAT_IDA</td><td>NA</td><td>NA</td><td>Saipung</td><td>Muallian</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Mowkaiaw</td><td>28 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Mowkaiaw</td><td>28 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Kyndongtuber</td><td>28 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Pasyih</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Nongjngi</td><td>28 Jan 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Iooksi</td><td>28 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Laskein</td><td>28 Jan 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Namdong</td><td>Mootyrshiah B</td><td>28 Jan 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Umsalait</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Mooshroot</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Mynksan</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Namdong</td><td>Khanduli</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Moobakhon</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Saitsama</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Umladang</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Nartiang</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Nartiang</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Moodymmai</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Namdong</td><td>Umshangiar</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Mynsngat</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Namdong</td><td>Khonsaro</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Namdong</td><td>Saitsama</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Moodop</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Saphai</td><td>28 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Namdong</td><td>Namdong A</td><td>28 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Thadlaskein</td><td>Khliehtyrshi</td><td>28 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Mukhap</td><td>28 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER WEST JAINTIA HILLS JOWAI_IDA</td><td>NA</td><td>NA</td><td>Laskein</td><td>Shangpung Misssion</td><td>28 Jan 2024</td><td>750000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Nongkohlew</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Umshing Umjapung</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Kynton Massar</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Iewrynghep</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawsiat Khnam</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Umsaw Mawjynrong</td><td>28 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Nongpdeng</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Madan Mawkhar</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Phudmuri</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Umrynjah</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Mawiongrim</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Motsyiar</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Mawiong Umjapung</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Nonglum</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Umphrew</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Umjaiur</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai (Ct)</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai (Ct)</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Umjajew</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Nongkwar</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawkynrew</td><td>Wahlakhiat</td><td>28 Jan 2024</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>Vincent H Pala(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>SHILLONG</td><td>DEPUTY COMMISSIONER EAST KHASI HILLS_IDA</td><td>NA</td><td>NA</td><td>Mawlai</td><td>Mawlai Syllaikariah</td><td>28 Jan 2024</td><td>50000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Dalupara</td><td>18 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Jaluagre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Sonamite</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Dengnakpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Masalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Goramara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Street lights</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Garobadha</td><td>18 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Okkapara Apalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>165</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Rerapara</td><td>Rerapara</td><td>18 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>166</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Baispara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>167</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Chondonpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>168</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Malchapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>169</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Godalgre</td><td>18 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>170</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Betasing Block Hq.</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>171</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Godalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>172</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Jolgaon</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>173</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Ampatigri</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>174</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Rongsang Songma</td><td>18 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>175</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Chiringpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>176</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Godalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>177</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Chondonpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>178</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Godalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>179</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Agalgre</td><td>18 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>180</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Baladinggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>181</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Watregre II</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>182</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Godalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>183</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Malchapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>184</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Jelbongpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>185</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Betasing Bazar</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>186</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Mokapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>187</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Bainapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>188</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Mokapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>189</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Banangpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>190</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Zikzak</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>191</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Aruagre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>192</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Aningpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>193</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Merengipara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>194</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Dinangpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>195</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Chapahati I</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>196</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Rongkaigre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>197</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Chapahati I</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>198</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Chibonggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>199</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Boldamsonggitalgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>200</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Zikzak</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>201</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Zikzak</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>202</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Rongkaigre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>203</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Chibonggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>204</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Kidapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>205</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Chibonggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>206</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Chibonggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>207</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Zikzak</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>208</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Aningpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>209</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Zikzak</td><td>Zikzak</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>210</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>211</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Sangsanggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>212</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Bolpuchiring</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>213</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Jengchamggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>214</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>215</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Daren Agal</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>216</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Balamagre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>217</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>218</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>219</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>220</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>221</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>222</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>223</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>224</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Jengchamggre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>225</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of buildings for sports facilities</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Rimrangpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>226</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Darechikgre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>227</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>228</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Chenggapara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>229</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Bolchugre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>230</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>231</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Gambegre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>232</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Balamagre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>233</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Balamagre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>234</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Dilnigre</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>235</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>NA</td><td>NA</td><td>Gambegre</td><td>Rimrangpara</td><td>18 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>236</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>WS/MP694/2023-2024/115471 - Purchase of ambulances (Four, three and two wheelers)</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER WEST GARO HILLS_IDA</td><td>Tura Municipal Board</td><td>Ward No. 10</td><td>NA</td><td>NA</td><td>26 Feb 2024</td><td>1800000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>237</td><td>Kum Agatha K Sangma(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Meghalaya</td><td>TURA</td><td>DEPUTY COMMISSIONER SOUTH WEST GARO HILLS AMPATI_IDA</td><td>NA</td><td>NA</td><td>Betasing</td><td>Chondonpara</td><td>26 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

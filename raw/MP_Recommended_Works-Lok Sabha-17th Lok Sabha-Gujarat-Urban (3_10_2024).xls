@@ -1,0 +1,1156 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>Chhota Udaipur</td><td>ward no 6 </td><td>NA</td><td>NA</td><td>05 Jul 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>31 Jul 2023</td><td>900000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>NA</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>10000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>05</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>295000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Repair and Renovation</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>14</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>325000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>15</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>225000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>07</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>475000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>900000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Common work sheds for artisans</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>04 Aug 2023</td><td>860000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8243 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>09</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>2499300</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8244 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>18</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>446800</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8245 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>19</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>905000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>19</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>16</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>490000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>19</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8250 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>16</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>243000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>17</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8252 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>17</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8253 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>900000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>04</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>155000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>04</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>725000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>04</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>435000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>05</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>550000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8266 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>860000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/12034 - Purchase of prosthetics, wheel chairs, tricycles (manual or motorized), elect scooties, hearing aids</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>05</td><td>NA</td><td>NA</td><td>22 Aug 2023</td><td>150000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Ratansinh Magansinh Rathod</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Gujarat</td><td>PANCHMAHAL</td><td>DISTRICT COLLECTOR PANCHMAHALS_IDA</td><td>SHAHERA</td><td>1</td><td>NA</td><td>NA</td><td>22 Aug 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Ratansinh Magansinh Rathod</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>PANCHMAHAL</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Dakor</td><td>1</td><td>NA</td><td>NA</td><td>22 Aug 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>31 Aug 2023</td><td>2700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>31 Aug 2023</td><td>400000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Saraspur</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>17500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Viratnagar</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>odhav</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15023 - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>Anand</td><td>ANAND</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15024 - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>Anand</td><td>ANAND</td><td>NA</td><td>NA</td><td>01 Sep 2023</td><td>450000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>Anand</td><td>BAKROL</td><td>NA</td><td>NA</td><td>02 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Devusinh Jesingbhai Chauhan</td><td>WS/MP005/2023-2024/16068 - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Kapadvanj</td><td>7</td><td>NA</td><td>NA</td><td>04 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar, Indiacolony, Saijpur</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Saijpur</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Saijpur</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sarsdarnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Purchase of sports equipment</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>450000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Indrapuri</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Gomtipur</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ramol Hathijan</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vatva</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vastral</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Odhav</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Nobal Nagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Naroda</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Viratnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Viratnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Indiacolony</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ramol-Hathijan</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Odhav</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vastral</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vatva</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vastral</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Nikol</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Viratnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Bapunagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Nikol</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>odhav</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Odhav</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Odhav</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Odhav</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Rakhiyal</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Viratnagar</td><td>NA</td><td>NA</td><td>06 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Nadiad</td><td>kanjari</td><td>NA</td><td>NA</td><td>08 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Chaklasi</td><td>2</td><td>NA</td><td>NA</td><td>08 Sep 2023</td><td>495000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Kheda</td><td>3</td><td>NA</td><td>NA</td><td>08 Sep 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>Smt Shardaben Anilbhai Patel</td><td>WS/MP590/2023-2024/18675 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Mahesana</td><td>Nagalpur</td><td>NA</td><td>NA</td><td>11 Sep 2023</td><td>650000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vadnagar</td><td>ward no. 5</td><td>NA</td><td>NA</td><td>11 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Visnagar</td><td>Ward No. 3</td><td>NA</td><td>NA</td><td>11 Sep 2023</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Mahesana</td><td>Ward 2</td><td>NA</td><td>NA</td><td>13 Sep 2023</td><td>650000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vadnagar</td><td>ward no. 5</td><td>NA</td><td>NA</td><td>13 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>Prabhubhai Nagarbhai Vasava</td><td>WS/MP582/2023-2024/20124 - Purchase of sanitary pad vending machine and incinerators</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>3</td><td>NA</td><td>NA</td><td>14 Sep 2023</td><td>124000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>Prabhubhai Nagarbhai Vasava</td><td>WS/MP582/2023-2024/22373 - Purchase of sanitary pad vending machine and incinerators</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Tarsadi</td><td>6</td><td>NA</td><td>NA</td><td>18 Sep 2023</td><td>124000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>Prabhubhai Nagarbhai Vasava</td><td>WS/MP582/2023-2024/22416 - Purchase of sanitary pad vending machine and incinerators</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Bardoli</td><td>Bardoli</td><td>NA</td><td>NA</td><td>18 Sep 2023</td><td>124000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Purchase of sanitary pad vending machine and incinerators</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>District collector Tapi_IDA</td><td>Songadh</td><td>Songadh</td><td>NA</td><td>NA</td><td>18 Sep 2023</td><td>124000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of buildings and providing fixed assets for semen banks</td><td>Trust and Society</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Dhandhuka</td><td>00</td><td>NA</td><td>NA</td><td>20 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>C R Patil</td><td>WS/MP575/2023-2024/23772 - Construction of community centers and community halls</td><td>Trust and Society</td><td>Gujarat</td><td>NAVSARI</td><td>DISTRICT COLLECTOR NAVSARI_IDA</td><td>Navsari-Vijalpor</td><td>WORD-05</td><td>NA</td><td>NA</td><td>20 Sep 2023</td><td>985000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Smt Darshana Vikram Jardosh</td><td>WS/MP587/2023-2024/23953 - Purchase of ambulances (Four, three and two wheelers)</td><td>Normal/Others</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>20</td><td>NA</td><td>NA</td><td>21 Sep 2023</td><td>3650000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>21 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Prabhubhai Nagarbhai Vasava</td><td>WS/MP582/2023-2024/24221 - Purchase of other aids / devices required for P/ M/ V/ H impaired for differently abled persons</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>District collector Tapi_IDA</td><td>Vyara</td><td>vyara </td><td>NA</td><td>NA</td><td>21 Sep 2023</td><td>75000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>C R Patil</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Gujarat</td><td>NAVSARI</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>20</td><td>NA</td><td>NA</td><td>26 Sep 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of buildings and providing fixed assets for semen banks</td><td>Trust and Society</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Limbdi</td><td>00</td><td>NA</td><td>NA</td><td>26 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Smt Darshana Vikram Jardosh</td><td>WS/MP587/2023-2024/26885 - Construction of shelters for animals</td><td>Normal/Others</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>5</td><td>NA</td><td>NA</td><td>26 Sep 2023</td><td>1400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>Prabhubhai Nagarbhai Vasava</td><td>WS/MP582/2023-2024/30045 - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>Mandvi </td><td>NA</td><td>NA</td><td>02 Oct 2023</td><td>192000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/30584 - Purchase of prosthetics, wheel chairs, tricycles (manual or motorized), elect scooties, hearing aids</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>07</td><td>NA</td><td>NA</td><td>03 Oct 2023</td><td>47000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR JUNAGADH_IDA</td><td>Keshod</td><td>1</td><td>NA</td><td>NA</td><td>03 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>09</td><td>NA</td><td>NA</td><td>04 Oct 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/31317 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>04 Oct 2023</td><td>328900</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>Ratansinh Magansinh Rathod</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Gujarat</td><td>PANCHMAHAL</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Dakor</td><td>1</td><td>NA</td><td>NA</td><td>07 Oct 2023</td><td>60000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>Smt Darshana Vikram Jardosh</td><td>NA - Air Purifier for pollution control </td><td>Normal/Others</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>6</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>1775000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Smart Class room</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>District collector Morbi_IDA</td><td>Halvad</td><td>00</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Smart class room</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>District collector Morbi_IDA</td><td>Halvad</td><td>00</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR PORBANDAR_IDA</td><td>Kutiyana</td><td>3</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Kadi</td><td>1</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Kadi</td><td>9</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Kadi</td><td>3</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Kadi</td><td>9</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Kadi</td><td>6</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Kadi</td><td>7</td><td>NA</td><td>NA</td><td>10 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Vallabhipur</td><td>Vallabhipur</td><td>NA</td><td>NA</td><td>11 Oct 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - drinking water plants</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>District collector Botad_IDA</td><td>Botad</td><td>botad</td><td>NA</td><td>NA</td><td>11 Oct 2023</td><td>1100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR JUNAGADH_IDA</td><td>Keshod</td><td>3</td><td>NA</td><td>NA</td><td>11 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR PORBANDAR_IDA</td><td>Ranavav</td><td>1</td><td>NA</td><td>NA</td><td>12 Oct 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>08</td><td>NA</td><td>NA</td><td>13 Oct 2023</td><td>450000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>08</td><td>NA</td><td>NA</td><td>13 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Bapunagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Bapunagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarnagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Thakkarbapanagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>75000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Sardarnagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>sardarnagar</td><td>NA</td><td>NA</td><td>16 Oct 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>saradar nagar dakxhin</td><td>NA</td><td>NA</td><td>17 Oct 2023</td><td>210000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>3</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>k para word</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>300000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Common work sheds for artisans</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>chitra-fulasar nari  word</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>Dakshin Sardar Nagar Adhewada Ward.</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>Dakshina Sardar Nagar Adhewada Ward</td><td>NA</td><td>NA</td><td>18 Oct 2023</td><td>600000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Repair and Renovation</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>3</td><td>NA</td><td>NA</td><td>26 Oct 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Trust and Society</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Kathlal</td><td>kathlal</td><td>NA</td><td>NA</td><td>26 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Dhandhuka</td><td>07</td><td>NA</td><td>NA</td><td>27 Oct 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of ambulances (Four, three and two wheelers)</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>District collector Botad_IDA</td><td>Barwala</td><td>00</td><td>NA</td><td>NA</td><td>27 Oct 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Dholka</td><td>dholka </td><td>NA</td><td>NA</td><td>27 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Kheda</td><td>2/3</td><td>NA</td><td>NA</td><td>28 Oct 2023</td><td>450000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/41885 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>9</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>857000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/41886 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>10</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>8</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>4</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>16</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>17</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/41900 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>2</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>Word No-12</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>18</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>6</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of public libraries and reading rooms</td><td>Trust and Society</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>3</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/41917 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Jasdan</td><td>NA</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>200000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/41918 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Jasdan</td><td>3</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/41955 - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>NA</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>450000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>NA - Common work sheds for artisans</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>Umreth</td><td>Umreth</td><td>NA</td><td>NA</td><td>30 Oct 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>District collector Morbi_IDA</td><td>Wankaner</td><td>6</td><td>NA</td><td>NA</td><td>31 Oct 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Viramgam</td><td>00</td><td>NA</td><td>NA</td><td>03 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>165</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>Ghogha Circle-Akwada ward</td><td>NA</td><td>NA</td><td>03 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>166</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>adhevada</td><td>NA</td><td>NA</td><td>03 Nov 2023</td><td>210000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>167</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>Chitra-Fulsar-Nari ward</td><td>NA</td><td>NA</td><td>03 Nov 2023</td><td>300000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>168</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>Ka pa ward</td><td>NA</td><td>NA</td><td>03 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>169</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>South Sardarnagar-Adwada ward.</td><td>NA</td><td>NA</td><td>03 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>170</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Trust and Society</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>surat </td><td>NA</td><td>NA</td><td>04 Nov 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>171</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>WS/MP322/2023-2024/45381 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR PORBANDAR_IDA</td><td>Ranavav</td><td>2</td><td>NA</td><td>NA</td><td>04 Nov 2023</td><td>300000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>172</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vadnagar</td><td>5</td><td>NA</td><td>NA</td><td>06 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>173</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Gandhinagar</td><td>Kudasan</td><td>NA</td><td>NA</td><td>07 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>174</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Bharuch</td><td>9</td><td>NA</td><td>NA</td><td>07 Nov 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>175</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>1</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>176</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>1</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>177</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>3</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>178</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Retrofitting, preservation or conservation of heritage and archaeological monuments and buildings</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>3</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>179</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>4</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>180</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>6</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>181</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>3</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>182</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Creation of new ponds</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>2</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>183</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Amod</td><td>3</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>184</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vijapur</td><td>1</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>320000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>185</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vijapur</td><td>6</td><td>NA</td><td>NA</td><td>10 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>186</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Sihor</td><td>Ward No.2</td><td>NA</td><td>NA</td><td>11 Nov 2023</td><td>300000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>187</td><td>Bharatiben Dhirubhai Shyal</td><td>WS/MP572/2023-2024/48866 - Purchase of ambulances (Four, three and two wheelers)</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Vallabhipur</td><td>Vallabhipur</td><td>NA</td><td>NA</td><td>11 Nov 2023</td><td>1100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>188</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Purchase of vehicle for mobile dispensaries (Four, three and two wheelers)</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Vallabhipur</td><td>Vallabhipur</td><td>NA</td><td>NA</td><td>11 Nov 2023</td><td>1100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>189</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Vallabhipur</td><td>Vallabhipur</td><td>NA</td><td>NA</td><td>11 Nov 2023</td><td>1500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>190</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Mahesana</td><td>2</td><td>NA</td><td>NA</td><td>12 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>191</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Visnagar</td><td>Ward No. 1</td><td>NA</td><td>NA</td><td>12 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>192</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vadnagar</td><td>1</td><td>NA</td><td>NA</td><td>17 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>193</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>District collector Morbi_IDA</td><td>Morbi</td><td>11</td><td>NA</td><td>NA</td><td>20 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>194</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Bharuch</td><td>8</td><td>NA</td><td>NA</td><td>21 Nov 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>195</td><td>Mansukhbhai Dhanjibhai Vasava</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>BHARUCH</td><td>DISTRICT COLLECTOR BROACH_IDA</td><td>Bharuch</td><td>9</td><td>NA</td><td>NA</td><td>21 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>196</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>District collector Morbi_IDA</td><td>Morbi</td><td>11</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>197</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Vadnagar</td><td>4</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>198</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Mansa</td><td>2</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>199</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Mansa</td><td>2</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>200</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Mansa</td><td>1</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>201</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Mansa</td><td>3</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>202</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Mansa</td><td>3</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>203</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR GANDHINAGAR_IDA</td><td>Mansa</td><td>4</td><td>NA</td><td>NA</td><td>22 Nov 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>204</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>15</td><td>NA</td><td>NA</td><td>23 Nov 2023</td><td>225000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>205</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>14</td><td>NA</td><td>NA</td><td>23 Nov 2023</td><td>995000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>206</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>16</td><td>NA</td><td>NA</td><td>23 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>207</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>WS/MP325/2023-2024/52348 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>11</td><td>NA</td><td>NA</td><td>24 Nov 2023</td><td>900000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>208</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/53899 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>18</td><td>NA</td><td>NA</td><td>28 Nov 2023</td><td>450000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>209</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>09</td><td>NA</td><td>NA</td><td>28 Nov 2023</td><td>750000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>210</td><td>Smt Darshana Vikram Jardosh</td><td>NA - Purchase of sanitary pad vending machine and incinerators</td><td>Normal/Others</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>10</td><td>NA</td><td>NA</td><td>28 Nov 2023</td><td>124000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>211</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>6</td><td>NA</td><td>NA</td><td>29 Nov 2023</td><td>384000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>212</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>6</td><td>NA</td><td>NA</td><td>29 Nov 2023</td><td>192000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>213</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>6</td><td>NA</td><td>NA</td><td>29 Nov 2023</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>214</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>16</td><td>NA</td><td>NA</td><td>30 Nov 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>215</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Retrofitting, preservation or conservation of heritage and archaeological monuments and buildings</td><td>Repair and Renovation</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>30 Nov 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>216</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>14</td><td>NA</td><td>NA</td><td>30 Nov 2023</td><td>995000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>217</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/54747 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>13</td><td>NA</td><td>NA</td><td>30 Nov 2023</td><td>750000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>218</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>6</td><td>NA</td><td>NA</td><td>30 Nov 2023</td><td>192000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>219</td><td>Hasmukh Bhai Soma Bhai Patel</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD EAST</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ahmedbad City</td><td>NA</td><td>NA</td><td>01 Dec 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>220</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>221</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>222</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vasana </td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>223</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Khokhra </td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>224</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Patdi</td><td>00</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>225</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>226</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>227</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/56247 - Crematoriums or structures on burial/ cremation ground for public convenience</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>03</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>684277</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>228</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/56248 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>297700</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>229</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/56249 - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>VMC</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>1100000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>230</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/56251 - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>VMC</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>980000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>231</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/56252 - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>VMC</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>1950000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>232</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>16</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>250000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>233</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>14</td><td>NA</td><td>NA</td><td>04 Dec 2023</td><td>995000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>234</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ahmedabad</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>235</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Maninagar</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>236</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahwadi</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>237</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Hathijan</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>238</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Raykhad</td><td>NA</td><td>NA</td><td>05 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>239</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Indrapuri</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>240</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>kankariya</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>241</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>elishbridge</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>242</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>243</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>244</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>245</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ahmedabad</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>246</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Maninagar</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>247</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahwadi</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>248</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Hathijan</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>249</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>raykhad</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>176000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>250</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>251</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>252</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Jamalpur</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>253</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahibhag</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>254</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Bhaipura</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>255</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Amraiwadi</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>256</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Navrangpura</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>257</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Vasna</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>258</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Khokhra </td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>259</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>260</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Isanpur</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>261</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Khadiya</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>262</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahpur</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>263</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>264</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Gomtipur</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>265</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>paldi</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>266</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Maninagar</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>267</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Danilimda</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>268</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Lambha</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>269</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Dariyapur</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>1492451</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>270</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ahmedabad</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>271</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ahmedabad</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>272</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Purchase of books for public libraries</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ahmedabad</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>273</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahpur</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>274</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of smart boards</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>06 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>275</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ambawadi</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>276</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>shahpur</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>277</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Meghaninagar</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>278</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>shahpur</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>279</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahibagh</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>280</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Lambha</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>281</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Khadiya</td><td>NA</td><td>NA</td><td>07 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>282</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>08 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>283</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>08 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>284</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>08 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>285</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Surendranagar-Dudhrej-Wadhwan</td><td>00</td><td>NA</td><td>NA</td><td>08 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>286</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Dhrangadhra</td><td>00</td><td>NA</td><td>NA</td><td>08 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>287</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>Patdi</td><td>00</td><td>NA</td><td>NA</td><td>08 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>288</td><td>Smt Darshana Vikram Jardosh</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>2,1,11,21,8</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>1120000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>289</td><td>Smt Darshana Vikram Jardosh</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>2,12,3,7,1</td><td>NA</td><td>NA</td><td>09 Dec 2023</td><td>660000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>290</td><td>Smt Darshana Vikram Jardosh</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Trust and Society</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>10</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>1250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>291</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Trikampura</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>292</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Jasodanagar</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>293</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahibagh</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>294</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>kankariya</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>295</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Indrapuri</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>296</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>elishbridge</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>297</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>298</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>299</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>300</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Hathijan</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>301</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Raykhad</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>302</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherapura</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>303</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ranip</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>304</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Majurgam</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>305</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Khokhra</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>306</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Mirjapur</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>307</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Mirjapur</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>308</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Gomtipur</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>309</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Gomtipur</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>310</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Ambawadi</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>311</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahpur</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>312</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Shahibagh</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>313</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Meghaninagar</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>314</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Lambha</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>315</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>Chhota Udaipur</td><td>all ward</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>316</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Dabhoi</td><td>all ward</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>317</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Padra</td><td>all ward</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>318</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR PANCHMAHALS_IDA</td><td>Halol</td><td>all ward</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>319</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR NARMADA_IDA</td><td>Rajpipla</td><td>all ward</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>320</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>Chhota Udaipur</td><td>Scheduled Caste Public Places</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>321</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Dabhoi</td><td>Scheduled Caste Public Places</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>322</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Padra</td><td>Scheduled Caste Public Places</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>323</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR PANCHMAHALS_IDA</td><td>Halol</td><td>Scheduled Caste Public Places</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>324</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR NARMADA_IDA</td><td>Rajpipla</td><td>Scheduled Caste Public Places</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>325</td><td>Ratansinh Magansinh Rathod</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Gujarat</td><td>PANCHMAHAL</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Dakor</td><td>1</td><td>NA</td><td>NA</td><td>12 Dec 2023</td><td>100000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>326</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>18 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>327</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>18 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>328</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Asarwa</td><td>NA</td><td>NA</td><td>18 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>329</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Hathijan</td><td>NA</td><td>NA</td><td>18 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>330</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Raykhad</td><td>NA</td><td>NA</td><td>18 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>331</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Setting up of laboratories</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>18 Dec 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>332</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/65077 - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Damnagar</td><td>1</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>355000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>333</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/65078 - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Damnagar</td><td>2</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>355000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>334</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/65079 - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Damnagar</td><td>3</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>355000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>335</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/65080 - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Damnagar</td><td>4</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>355000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>336</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/65081 - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Damnagar</td><td>5</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>355000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>337</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/65082 - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Damnagar</td><td>6</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>355000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>338</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>Amreli</td><td>2</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>17750</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>339</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Nadiad</td><td>nadiad</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>340</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Nadiad</td><td>nadiad</td><td>NA</td><td>NA</td><td>19 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>341</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Bardoli</td><td>Bardoli</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>342</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>District collector Tapi_IDA</td><td>Songadh</td><td>Songadh</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>1400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>343</td><td>Dipsinh Shankarsinh Rathod</td><td>NA - Renovation of ponds and lakes</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR SABARKANTHA_IDA</td><td>Vadali</td><td>2</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>344</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/66726 - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>01</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>199800</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>345</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>02</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>650000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>346</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>05</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>215000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>347</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>Vadodara</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>1825000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>348</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>14</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>86000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>349</td><td>Dipsinh Shankarsinh Rathod</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>Modasa</td><td>3</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>140000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>350</td><td>Dipsinh Shankarsinh Rathod</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Trust and Society</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR SABARKANTHA_IDA</td><td>Prantij</td><td>6</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>351</td><td>Dipsinh Shankarsinh Rathod</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Trust and Society</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR SABARKANTHA_IDA</td><td>Prantij</td><td>6</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>410000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>352</td><td>Dipsinh Shankarsinh Rathod</td><td>NA - Construction of community centers and community halls</td><td>Trust and Society</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR SABARKANTHA_IDA</td><td>Idar</td><td>6</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>353</td><td>Smt Darshana Vikram Jardosh</td><td>NA - Construction of buildings for training institutions</td><td>Trust and Society</td><td>Gujarat</td><td>SURAT</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Surat</td><td>3</td><td>NA</td><td>NA</td><td>27 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>354</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Mahesana</td><td>6</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>355</td><td>Smt Shardaben Anilbhai Patel</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Gujarat</td><td>MAHESANA</td><td>DISTRICT COLLECTOR MAHESANA_IDA</td><td>Mahesana</td><td>4</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>356</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Purchase of hearse van</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Kadodara</td><td>Kadodara </td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>357</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Kadodara</td><td>kadodara </td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>192000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>358</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Purchase of books and periodicals for libraries</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>Mandvi</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>359</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Kadodara</td><td>Kadodar</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>384000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>360</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>Mandvi</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>192000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>361</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>DISTRICT COLLECTOR SURAT_IDA</td><td>Mandvi</td><td>Mandvi</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>192000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>362</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>District collector Tapi_IDA</td><td>Songadh</td><td>Sonadh</td><td>NA</td><td>NA</td><td>01 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>363</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Nadiad</td><td>ward 1 </td><td>NA</td><td>NA</td><td>06 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>364</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td>Adhewada</td><td>NA</td><td>NA</td><td>08 Jan 2024</td><td>210000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>365</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Sihor</td><td>Sihor</td><td>NA</td><td>NA</td><td>09 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>366</td><td>Bharatiben Dhirubhai Shyal</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>BHAVNAGAR</td><td>DISTRICT COLLECTOR BHAVNAGAR_IDA</td><td>Bhavnagar</td><td> Chitra-Fulsar-Nari ward</td><td>NA</td><td>NA</td><td>09 Jan 2024</td><td>300000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>367</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR PORBANDAR_IDA</td><td>Kutiyana</td><td>1</td><td>NA</td><td>NA</td><td>10 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>368</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>8</td><td>NA</td><td>NA</td><td>13 Jan 2024</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>369</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Rajkot</td><td>7</td><td>NA</td><td>NA</td><td>13 Jan 2024</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>370</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Dabhoi</td><td>9</td><td>NA</td><td>NA</td><td>13 Jan 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>371</td><td>Shri Rameshbhai Lavjibhai Dhaduk (17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Gujarat</td><td>PORBANDAR</td><td>DISTRICT COLLECTOR PORBANDAR_IDA</td><td>Ranavav</td><td>2</td><td>NA</td><td>NA</td><td>16 Jan 2024</td><td>500000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>372</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>VMC</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>885258</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>373</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>Vadodara</td><td>16</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>374</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>375</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>376</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>377</td><td>Kirit Premjibhai Solanki(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>AHMEDABAD WEST(SC)</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>Ahmadabad</td><td>Baherampura</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>378</td><td>Parbatbhai Savabhai Patel</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Gujarat</td><td>BANASKANTHA</td><td>DISTRICT COLLECTOR BANAS KANTHA_IDA</td><td>Palanpur</td><td>10</td><td>NA</td><td>NA</td><td>25 Jan 2024</td><td>1100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>379</td><td>Parbatbhai Savabhai Patel</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Gujarat</td><td>BANASKANTHA</td><td>DISTRICT COLLECTOR BANAS KANTHA_IDA</td><td>Palanpur</td><td>02</td><td>NA</td><td>NA</td><td>25 Jan 2024</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>380</td><td>Devusinh Jesingbhai Chauhan</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>KHEDA</td><td>DISTRICT COLLECTOR KHEDA_IDA</td><td>Mahudha</td><td>Chaklasi </td><td>NA</td><td>NA</td><td>30 Jan 2024</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>381</td><td>Shri Mohanbhai Kalyanji Kundariya (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>RAJKOT</td><td>DISTRICT COLLECTOR RAJKOT_IDA</td><td>Jasdan</td><td>Jasdan (M) - Ward No.3</td><td>NA</td><td>NA</td><td>11 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>382</td><td>Smt Poonamben Hematbhai Maadam</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Gujarat</td><td>JAMNAGAR</td><td>DISTRICT COLLECTOR JAMNAGAR_IDA</td><td>Jamnagar</td><td>Jamnagar (M Corp.) - Ward No.2</td><td>NA</td><td>NA</td><td>25 Feb 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>383</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>District collector Tapi_IDA</td><td>Songadh</td><td>Songadh (M) - Ward No.1</td><td>NA</td><td>NA</td><td>01 Mar 2024</td><td>450000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>384</td><td>Prabhubhai Nagarbhai Vasava</td><td>NA - Fitting of Sitting RCC Benches in Public Places</td><td>Normal/Others</td><td>Gujarat</td><td>BARDOLI(ST)</td><td>District collector Tapi_IDA</td><td>Vyara</td><td>Vyara (M) - Ward No.1</td><td>NA</td><td>NA</td><td>01 Mar 2024</td><td>450000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

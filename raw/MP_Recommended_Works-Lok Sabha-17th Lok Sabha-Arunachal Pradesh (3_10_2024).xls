@@ -1,0 +1,907 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Rebo Parging</td><td>Komsing(Kumku)</td><td>15 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Rebo Parging</td><td>Komsing(Karo)</td><td>15 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>TUTING</td><td>Palling</td><td>15 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Creation of new ponds</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>YINGKIONG</td><td>Gobuk</td><td>15 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Pasighat Hq</td><td>Yagrung I</td><td>15 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Meka-I</td><td>15 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Asali</td><td>15 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Bolik</td><td>15 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>DAMBUK</td><td>Sirang</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>DAMBUK</td><td>Bizari I</td><td>15 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Sunpura</td><td>15 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Anjaw_IDA</td><td>NA</td><td>NA</td><td>HAYULIANG</td><td>Khupa Township</td><td>15 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Anjaw_IDA</td><td>NA</td><td>NA</td><td>HAYULIANG</td><td>Hayuliang</td><td>15 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Mengkenmiri</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>Namsai Hq</td><td>Dhonekhona</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Samuguri</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>CHANGLANG</td><td>Old Changlang</td><td>15 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Creation of new ponds</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>Manmao</td><td>Manmao Village</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Katang Circle</td><td>New Bunting</td><td>15 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Khonsa</td><td>Khonsa</td><td>15 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Longding_IDA</td><td>NA</td><td>NA</td><td>WAKKA</td><td>Chongkhow</td><td>15 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Sikabamin</td><td>15 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Lingka</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Lingka</td><td>15 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Debing</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Oyan Village</td><td>16 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Ruksin</td><td>16 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Remi</td><td>16 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>12th Mile</td><td>16 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>12th Mile</td><td>16 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Rani</td><td>16 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Pangin Eac</td><td>Lokpeng</td><td>16 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Pasighat</td><td>Tekang I</td><td>16 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>PASIGHAT</td><td>2</td><td>NA</td><td>NA</td><td>16 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Longding_IDA</td><td>NA</td><td>NA</td><td>KANUBARI</td><td>Lawnu</td><td>16 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Deomali Adc</td><td>Namsang</td><td>16 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Manmow</td><td>17 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Sengsap</td><td>17 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Repair and Renovation</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Khonsa Hq</td><td>Lapnan</td><td>17 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Tree plantation for community</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Longding_IDA</td><td>NA</td><td>NA</td><td>PONGCHAU</td><td>Bonia</td><td>17 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Bamin</td><td>17 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Rayang</td><td>17 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Rani</td><td>17 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Mangnang</td><td>17 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>JENGGING</td><td>Karko</td><td>17 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>PANGIN</td><td>Koreng</td><td>18 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>PANGIN</td><td>Koreng</td><td>18 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>Khagam-Miao</td><td>Kharsang H.Q.-II (Kharsang Bazar)</td><td>18 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Lupong</td><td>18 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Lupong</td><td>18 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Niglok</td><td>19 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Rayang</td><td>19 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Ngorlung</td><td>19 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>Khimiyang</td><td>Chingsa</td><td>19 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>19 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>19 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Mekailiang</td><td>19 Dec 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Jeko</td><td>19 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>WAKRO</td><td>Chikrolang</td><td>19 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>Sunpura Circle</td><td>Jeko</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>Chongkham Eac</td><td>Mabira</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Sengsap</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Kungsung</td><td>19 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>Lathao Circle</td><td>Lathao</td><td>19 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Mengkeng Khamti</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>LEKANG</td><td>Silatoo Khampti</td><td>19 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>MARIYANG</td><td>Damro-III</td><td>20 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Lathao</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Namsai_IDA</td><td>NA</td><td>NA</td><td>NAMSAI</td><td>Jona Kachari Kuli</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>Tuting Adc</td><td>Tuting Village</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>YINGKIONG</td><td>Simong</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>MARIYANG</td><td>Bomi</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>WAKRO</td><td>Hallao</td><td>20 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Establishing public lift irrigation projects</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>GEKU</td><td>Komkar(Rasing)</td><td>20 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>MARIYANG</td><td>Adipasi-Sibuk</td><td>20 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Establishing public lift irrigation projects</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>YATDAM</td><td>Hatongchu</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>20 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Mekailiang</td><td>20 Dec 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Anjaw_IDA</td><td>NA</td><td>NA</td><td>CHAGLAGAM</td><td>Chaglagam</td><td>20 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Development of public parks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Anjaw_IDA</td><td>NA</td><td>NA</td><td>HAWAI-WALONG</td><td>Mechong</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Anjaw_IDA</td><td>NA</td><td>NA</td><td>HAWAI-WALONG</td><td>Samdul</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Khonsa</td><td>Kheti</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Rebo Parging</td><td>Riew Reydang</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Establishing public lift irrigation projects</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Boleng</td><td>Pareng</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Riga</td><td>Pangkang Jorkong</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Rebo Parging</td><td>Pangi</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>PANGIN</td><td>Pangin</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>PANGIN</td><td>Koreng</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Rebo Parging</td><td>Begging</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Jia III</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Gamgu</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Gamgu</td><td>20 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER LOHIT_IDA</td><td>NA</td><td>NA</td><td>TEZU</td><td>Tezu Gam</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Riga</td><td>Riga Mobuk</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Boleng</td><td>Messing</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Longding_IDA</td><td>NA</td><td>NA</td><td>NIAUSA</td><td>Niaunu</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Ezengo</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Setting up of kitchen and pantries</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Roing Hq</td><td>Asali</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>MEBO</td><td>Mebo Gidum</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>Khagam-Miao</td><td>Kharsang Tinali</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Longding_IDA</td><td>NA</td><td>NA</td><td>NIAUSA</td><td>Longsom</td><td>20 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Boleng Adc</td><td>Pareng</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>YINGKIONG</td><td>11 K.M. L/Camp</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Holokbari</td><td>21 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Anjaw_IDA</td><td>NA</td><td>NA</td><td>HAYULIANG</td><td>Hayuliang</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Ngorlung</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Boleng</td><td>Yibuk</td><td>21 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Longding_IDA</td><td>NA</td><td>NA</td><td>NIAUSA</td><td>Mintong</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>PASIGHAT</td><td>6</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Ruksin</td><td>Kora</td><td>20 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>YINGKIONG</td><td>Simong</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>ROING</td><td>Agamgite - II</td><td>21 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Tawang_IDA</td><td>NA</td><td>NA</td><td>LUMLA</td><td>Dugumba</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Tawang_IDA</td><td>Tawang</td><td>NA</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>Kiren Rijiju</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Tawang_IDA</td><td>NA</td><td>NA</td><td>LUMLA</td><td>Hoongla</td><td>21 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Tawang_IDA</td><td>Tawang</td><td>NA</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>DIRANG</td><td>Yewang</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>DIRANG</td><td>Mandalaphudung</td><td>21 Dec 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>Kiren Rijiju</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Singchung</td><td>Buragaon</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Singchung</td><td>Tippi</td><td>21 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>THRIZINO</td><td>Lower Bhalukpong</td><td>21 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Singchung</td><td>Tenga Village</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>Bomdila</td><td>NA</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra</td><td>Nafra East</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra</td><td>Wothung</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra</td><td>Nafra East</td><td>21 Dec 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra</td><td>Nafra East</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>Kiren Rijiju</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra</td><td>Longtin</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>Bomdila</td><td>NA</td><td>NA</td><td>NA</td><td>21 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Shi Yomi_IDA</td><td>NA</td><td>NA</td><td>MECHUKA-TATO</td><td>Tato H.Q. (including Labour Camp)</td><td>21 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Shi Yomi_IDA</td><td>NA</td><td>NA</td><td>MECHUKA-TATO</td><td>Lhalung</td><td>21 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Shi Yomi_IDA</td><td>NA</td><td>NA</td><td>MECHUKA-TATO</td><td>Yorni</td><td>21 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>Kiren Rijiju</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Shi Yomi_IDA</td><td>NA</td><td>NA</td><td>MECHUKA-TATO</td><td>Lipo</td><td>22 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>NA</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Kiren Rijiju</td><td>NA - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>jullang</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>polo colony</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>17</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>H sector</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>gohpur Tinali</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>ITANAGAR</td><td>Chimpu</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>Kiren Rijiju</td><td>WS/MP533/2023-2024/67827 - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Nirjuli</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>Chimpu</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>Kiren Rijiju</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Barapani</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Barapani</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Sanglo Putung 2</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>Baat Basti</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>D Sector</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Youth Hostel</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>gohpur Tinali</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>Panchali</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>HAKAP VILLAGE</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>Kiren Rijiju</td><td>WS/MP533/2023-2024/67838 - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>LOBI KOLA Camp</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>800000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>G Sector</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>Upper Ropung Village</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>Yupia 2</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>Kiren Rijiju</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>Lekha Village </td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>Kiren Rijiju</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>KIMIN</td><td>Kimin</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>Kiren Rijiju</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>Bassarnallo</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>Kiren Rijiju</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>Doimukh Sdo</td><td>Yupia</td><td>22 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>Banderdewa</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Pech</td><td>22 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>165</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>MENGIO</td><td>Sakiang</td><td>22 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>166</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>MENGIO</td><td>Sakiang</td><td>22 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>167</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>MENGIO</td><td>Rugo</td><td>22 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>168</td><td>Kiren Rijiju</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Yallang</td><td>22 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>169</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>MENGIO</td><td>Silango</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>170</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Apop -I</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>171</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Kulubu</td><td>22 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>172</td><td>Kiren Rijiju</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Yallang</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>173</td><td>Kiren Rijiju</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Sengri (Sangring)</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>174</td><td>Kiren Rijiju</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>MENGIO</td><td>Sarchgai</td><td>22 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>175</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>ITANAGAR</td><td>Chimi Village</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>176</td><td>Kiren Rijiju</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Chimpu</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>177</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>ITANAGAR</td><td>Sidharth Hall</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>178</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Papu Nallah</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>179</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Rakap Colony</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>180</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>ITANAGAR</td><td>Chimpu</td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>181</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Pistana Circle</td><td>New Neelam</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>182</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>Birup </td><td>NA</td><td>NA</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>183</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yazali Circle</td><td>Yazali</td><td>22 Dec 2023</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>184</td><td>Kiren Rijiju</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yazali Circle</td><td>Yazali</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>185</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yachuli Adc</td><td>Passa</td><td>22 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>186</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yazali Circle</td><td>Kuch-Kut</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>187</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yazali Circle</td><td>Yazali</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>188</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yazali Circle</td><td>Rewa Deli</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>189</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Yachuli Adc</td><td>Yachuli H.Q.</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>190</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DC KRADAADI_IDA</td><td>NA</td><td>NA</td><td>Palin Circle</td><td>Rayong (Rayung)</td><td>22 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>191</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DC KRADAADI_IDA</td><td>NA</td><td>NA</td><td>Palin Circle</td><td>Pagu</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>192</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DC KRADAADI_IDA</td><td>NA</td><td>NA</td><td>Palin Circle</td><td>Lumba(Old Palin)</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>193</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DC KRADAADI_IDA</td><td>NA</td><td>NA</td><td>Yangte Circle</td><td>Dokio Pep</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>194</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DC KRADAADI_IDA</td><td>NA</td><td>NA</td><td>Pipsorang Circle</td><td>Pipsorang</td><td>22 Dec 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>195</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DC KRADAADI_IDA</td><td>NA</td><td>NA</td><td>Pipsorang Circle</td><td>Raha</td><td>22 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>196</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Changlang_IDA</td><td>NA</td><td>NA</td><td>Kharsang Circle</td><td>Namchik Havi</td><td>23 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>197</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Kurung Kumey_IDA</td><td>NA</td><td>NA</td><td>Nyapin Adc</td><td>Longlefoth</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>198</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Kurung Kumey_IDA</td><td>NA</td><td>NA</td><td>Damin Circle</td><td>Damin Village</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>199</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Siyum Adc</td><td>Karam</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>200</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Siyum Adc</td><td>Ekke</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>201</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Kamle_IDA</td><td>NA</td><td>NA</td><td>Kamporijo Circle</td><td>Begra</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>202</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Kamle_IDA</td><td>NA</td><td>NA</td><td>Puchi Geko Circle</td><td>Muri</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>203</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Liromoba Eac</td><td>Esse Tamen</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>204</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Liromoba Eac</td><td>Liromoba H.Q.</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>205</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kamba Adc</td><td>Kamba H.Q.</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>206</td><td>Kiren Rijiju</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kamba Adc</td><td>Nomuk</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>207</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kamba Adc</td><td>Sesi Likar</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>208</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kamba Adc</td><td>Kato Moku</td><td>26 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>209</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Liromoba Eac</td><td>Ligo</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>210</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Yomcha Adc</td><td>Gamkak</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>211</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Liromoba Eac</td><td>Botak - Kayi</td><td>26 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>212</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Darak Circle</td><td>Boru Raksap</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>213</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kamba Adc</td><td>Dego Kamki</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>214</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Aalo Hq</td><td>Panya</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>215</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Bagra Circle</td><td>Angu</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>216</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Nikte Kodum Circle</td><td>Yigi Kaum(Eshi Moku)</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>217</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Nikte Kodum Circle</td><td>Pushi Nyorak</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>218</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Nikte Kodum Circle</td><td>Nikte Camp</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>219</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Gensi Eac</td><td>Bigi</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>220</td><td>Kiren Rijiju</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Likabali Sdo</td><td>Likabali H.Q.</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>221</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Likabali Sdo</td><td>Dipa</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>222</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Nikte Kodum Circle</td><td>Yigi Kaum(Eshi Moku)</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>223</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Aalo Hq</td><td>Kabu</td><td>26 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>224</td><td>Kiren Rijiju</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Nikte Kodum Circle</td><td>Yigi Kaum(Eshi Moku)</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>225</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Rete Potu</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>226</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Sago</td><td>Piri</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>227</td><td>Kiren Rijiju</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Nyigam</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>228</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Pagi</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>229</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Nyodu</td><td>26 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>230</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Basar Hq</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>231</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Kadi</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>232</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Nyigam</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>233</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Nyigam</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>234</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Tirbin Eac</td><td>Dedu Doke</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>235</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Likabali Sdo</td><td>Silli</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>236</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Kadi</td><td>26 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>237</td><td>Kiren Rijiju</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Aalo Hq</td><td>Gune Bane(Including Popn Camp)</td><td>26 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>238</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Bagra Circle</td><td>Nigmoi</td><td>26 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>239</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Kangku Circle</td><td>Germe</td><td>27 Dec 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>240</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Nilling Circle</td><td>Nilling</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>241</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Nilling Circle</td><td>Sebing</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>242</td><td>Kiren Rijiju</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Chetam Peer Yapu Circle</td><td>Belu</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>243</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Likabali Sdo</td><td>Kuntor</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>244</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Kangku Circle</td><td>Kangku</td><td>27 Dec 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>245</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Lower Siang_IDA</td><td>NA</td><td>NA</td><td>Kangku Circle</td><td>Kamcham</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>246</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kombo Circle</td><td>Tadin</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>247</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Darak Circle</td><td>Boru Raksap</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>248</td><td>Kiren Rijiju</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Nyigam</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>249</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner East Kameng_IDA</td><td>NA</td><td>NA</td><td>Lada Circle</td><td>Granjang</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>250</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner East Kameng_IDA</td><td>NA</td><td>NA</td><td>Khenawa Circle</td><td>Waii</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>251</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner East Kameng_IDA</td><td>NA</td><td>NA</td><td>Lada Circle</td><td>Lower Liyak</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>252</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner East Kameng_IDA</td><td>NA</td><td>NA</td><td>Sawa Circle</td><td>Lamnio-I (Res)</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>253</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Siyum Adc</td><td>Dingdopa</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>254</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Nacho Sdo</td><td>Diri</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>255</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner East Kameng_IDA</td><td>NA</td><td>NA</td><td>Seppa Hq</td><td>Donigaon</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>256</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner East Kameng_IDA</td><td>NA</td><td>NA</td><td>Seppa Hq</td><td>12th Mile Camp</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>257</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Nilling Circle</td><td>Dabu</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>258</td><td>Kiren Rijiju</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Giba Circle</td><td>Leya</td><td>27 Dec 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>259</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Daporijo Hq</td><td>Nima</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>260</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Maro Circle</td><td>Pani Muri</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>261</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Taliha Adc</td><td>Taliha H.Q.</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>262</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Liromoba Eac</td><td>Bole Upper</td><td>27 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>263</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Daring Circle</td><td>Rilu</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>264</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Siyum Adc</td><td>Eru</td><td>27 Dec 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>265</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Nacho Sdo</td><td>Nacho H.Q.</td><td>27 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>266</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Creation of new ponds</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Bilat Circle</td><td>Ledum</td><td>23 Dec 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>267</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Roing Hq</td><td>Gamgu</td><td>23 Dec 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>268</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Roing Hq</td><td>Ithili</td><td>23 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>269</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Tinali Paglam Circle</td><td>Paglam III</td><td>23 Dec 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>270</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Tinali Paglam Circle</td><td>Banggo</td><td>03 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>271</td><td>Kiren Rijiju</td><td>NA - Community Toilets</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>Doimukh Sdo</td><td>Midpu</td><td>03 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>272</td><td>Kiren Rijiju</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Nyigam</td><td>03 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>273</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Tree plantation for community</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Dadam Circle</td><td>Dadam</td><td>03 Jan 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>274</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Khonsa Hq</td><td>Khonsa</td><td>03 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>275</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Dadam Circle</td><td>New Kothin</td><td>03 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>276</td><td>Kiren Rijiju</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>Leporiang Circle</td><td>Leporiang H.Q.</td><td>04 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>277</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Daring Circle</td><td>Dali</td><td>05 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>278</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Roing Hq</td><td>Meka-I</td><td>06 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>279</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Oyan Circle</td><td>Sika Tode</td><td>06 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>280</td><td>Kiren Rijiju</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra Eac</td><td>Nafra East</td><td>08 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>281</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>Nafra Eac</td><td>Nafra East</td><td>08 Jan 2024</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>282</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Aalo Hq</td><td>Hissam</td><td>08 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>283</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Pasighat Hq</td><td>Sibut</td><td>08 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>284</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DEPUTY COMMISSIONER TIRAP_IDA</td><td>NA</td><td>NA</td><td>Soha Circle</td><td>Soha</td><td>08 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>285</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Tirbin Eac</td><td>Moba Doke</td><td>09 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>286</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>Daporijo Hq</td><td>Rapen Nima</td><td>09 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>287</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>Itanagar Eac</td><td>Birup</td><td>15 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>288</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>DC Upper Siang_IDA</td><td>NA</td><td>NA</td><td>Yingkiong Circle</td><td>Halleng</td><td>17 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>289</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Oyan Circle</td><td>Mangnang</td><td>17 Jan 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>290</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Lower Dibang Valley_IDA</td><td>NA</td><td>NA</td><td>Roing Hq</td><td>Malek</td><td>17 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>291</td><td>Kiren Rijiju</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>Kamba Adc</td><td>Dego Kamki</td><td>18 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>292</td><td>Kiren Rijiju</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Daring Circle</td><td>Old Daring</td><td>19 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>293</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner East Siang_IDA</td><td>NA</td><td>NA</td><td>Bilat Circle</td><td>Miglung</td><td>17 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>294</td><td>Kiren Rijiju</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commissioner Lower Subansir_IDA</td><td>NA</td><td>NA</td><td>Ziro Hq</td><td>Hong - I</td><td>24 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>295</td><td>Kiren Rijiju</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Itanagar</td><td>12</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>296</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Kaying Eac</td><td>Kerang I</td><td>02 Feb 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>297</td><td>Kiren Rijiju</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Jomlo Mobuk Circle</td><td>Sipeng</td><td>02 Feb 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>298</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Sago</td><td>Lipu Namchi</td><td>05 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>299</td><td>Kiren Rijiju</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL WEST</td><td>Deputy Commisioner Leparada_IDA</td><td>NA</td><td>NA</td><td>Basar Adc</td><td>Pagi</td><td>05 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>300</td><td>Shri Tapir Gao (17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>ARUNACHAL EAST</td><td>Deputy Commisioner Siang_IDA</td><td>NA</td><td>NA</td><td>Pangin Eac</td><td>Lokpeng</td><td>26 Feb 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

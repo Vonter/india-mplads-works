@@ -1,0 +1,97 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>SHRI Sandosh Kumar P</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KANNUR_IDA</td><td>NA</td><td>NA</td><td>KUTHUPARAMBA</td><td>Kottayam</td><td>04 Jul 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI Binoy Viswam</td><td>WS/MP097/2023-2024/49710 - Construction of New Building</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MALAPPURAM_IDA</td><td>NA</td><td>NA</td><td>TANUR</td><td>Ozhur</td><td>16 Nov 2023</td><td>5400000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI Binoy Viswam</td><td>WS/MP097/2023-2024/49744 - Construction of New Building</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>KANJIRAPPALLY</td><td>Koottickal</td><td>16 Nov 2023</td><td>4925000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI Binoy Viswam</td><td>WS/MP097/2023-2024/49827 - Construction of New Building</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>UZHAVOOR</td><td>Veliyannoor</td><td>16 Nov 2023</td><td>176293</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI Binoy Viswam</td><td>WS/MP097/2023-2024/61925 - Purchase of school vans and buses (Four and three wheelers)</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR THIRUVANANTHAPURAM_IDA</td><td>Thiruvananthapuram</td><td>VAZHUTHACAUD</td><td>NA</td><td>NA</td><td>14 Dec 2023</td><td>3300000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI Binoy Viswam</td><td>WS/MP097/2023-2024/71090 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR THIRUVANANTHAPURAM_IDA</td><td>NA</td><td>NA</td><td>Chirayinkeezhu</td><td>Pazhayakunnummel</td><td>29 Dec 2023</td><td>3600000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Kanjirappally</td><td>Elamgulam</td><td>01 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR PALAKKAD_IDA</td><td>NA</td><td>NA</td><td>Alathur</td><td>Thenkurissi-I</td><td>15 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI Jose K Mani</td><td>NA - Construction of bus-sheds or bus-stops</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Veliyannoor</td><td>17 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Puliyannoor (Part)</td><td>17 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI Jose K Mani</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Changanassery</td><td>Nedumkunnam</td><td>17 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Vellilappally</td><td>17 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Kanjirappally</td><td>Kanjirappally</td><td>17 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>SHRI Jose K Mani</td><td>NA - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Moonilavu</td><td>17 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>Palai</td><td>23</td><td>NA</td><td>NA</td><td>17 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Kottayam</td><td>Akalakunnam</td><td>17 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Kanjirappally</td><td>Cheruvally</td><td>17 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Moonilavu</td><td>17 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Moonilavu</td><td>01 Jan 2024</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Kottayam</td><td>Anikkad</td><td>17 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Kidangoor</td><td>17 Jan 2024</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Vaikom</td><td>Chempu</td><td>17 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Meenachil</td><td>Puliyannoor (Part)</td><td>17 Jan 2024</td><td>570000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>SHRI Binoy Viswam</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MALAPPURAM_IDA</td><td>Kondotty</td><td>KAITHAKKODU</td><td>NA</td><td>NA</td><td>18 Jan 2024</td><td>8500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR MALAPPURAM_IDA</td><td>NA</td><td>NA</td><td>Ernad</td><td>Vettilappara</td><td>15 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>SHRI Jose K Mani</td><td>NA - Creation of new ponds</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Vaikom</td><td>Muttuchira</td><td>23 Jan 2024</td><td>9300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>SHRI Jose K Mani</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Vaikom</td><td>Muttuchira</td><td>23 Jan 2024</td><td>1170000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI Jose K Mani</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Vaikom</td><td>Muttuchira</td><td>23 Jan 2024</td><td>210000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI Jose K Mani</td><td>NA - Construction of New Building</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Vaikom</td><td>Muttuchira</td><td>23 Jan 2024</td><td>2430000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI Jose K Mani</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Kerala</td><td>Sitting Rajya Sabha</td><td>DISTRICT COLLECTOR KOTTAYAM_IDA</td><td>NA</td><td>NA</td><td>Vaikom</td><td>Muttuchira</td><td>23 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

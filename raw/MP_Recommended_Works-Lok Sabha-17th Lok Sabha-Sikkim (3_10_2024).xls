@@ -1,0 +1,145 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>DARAMDIN</td><td>Upper Fambong</td><td>01 Sep 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Indra Hang Subba</td><td>WS/MP013/2023-2024/14845 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>DARAMDIN</td><td>Dodak</td><td>01 Sep 2023</td><td>6000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Indra Hang Subba</td><td>WS/MP013/2023-2024/14846 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>DARAMDIN</td><td>Rumbuk</td><td>01 Sep 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>01 Sep 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR NAMCHI_IDA</td><td>NA</td><td>NA</td><td>YANGANG</td><td>Rangang</td><td>05 Sep 2023</td><td>4000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Indra Hang Subba</td><td>WS/MP013/2023-2024/17423 - Construction of toilet blocks</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>Chandmari ward council</td><td>NA</td><td>NA</td><td>07 Sep 2023</td><td>5000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Indra Hang Subba</td><td>NA - Construction of Government office buildings (Post office, Police station, Police chauki, etc.)</td><td>Repair and Renovation</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR NAMCHI_IDA</td><td>NA</td><td>NA</td><td>TEMI</td><td>Namphing</td><td>07 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Indra Hang Subba</td><td>NA - Construction of water tanks</td><td>Repair and Renovation</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>DARAMDIN</td><td>Rumbuk</td><td>07 Sep 2023</td><td>3200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Indra Hang Subba</td><td>NA - Common work sheds for artisans</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sopakha</td><td>11 Sep 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Indra Hang Subba</td><td>NA - Development of playground</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Gyaten</td><td>11 Sep 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Lungzik</td><td>18 Sep 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Indra Hang Subba</td><td>NA - Common work sheds for artisans</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>ARITHANG CHONGRANG</td><td>Gerethang</td><td>18 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>HEE MARTAM</td><td>Chingthang</td><td>18 Sep 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>CHUMBONG CHAKUNG</td><td>Chota Samdong</td><td>18 Sep 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sardong</td><td>18 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sardong</td><td>18 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sardong</td><td>18 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Lungzik</td><td>18 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Indra Hang Subba</td><td>WS/MP013/2023-2024/22749 - Construction of rainwater harvesting structures</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>sichey</td><td>NA</td><td>NA</td><td>18 Sep 2023</td><td>4000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Indra Hang Subba</td><td>WS/MP013/2023-2024/23902 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>sichey</td><td>NA</td><td>NA</td><td>21 Sep 2023</td><td>4000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Indra Hang Subba</td><td>WS/MP013/2023-2024/29520 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>SORENG</td><td>Tharpu</td><td>01 Oct 2023</td><td>1000000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>CHUNGTHANG</td><td>Lachung</td><td>01 Oct 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Indra Hang Subba</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>NA</td><td>NA</td><td>NANDOK</td><td>Nandok</td><td>01 Oct 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Indra Hang Subba</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sangkhu</td><td>01 Oct 2023</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Bongten</td><td>01 Oct 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Indra Hang Subba</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sopakha</td><td>17 Oct 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Indra Hang Subba</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Karmatar</td><td>17 Oct 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Indra Hang Subba</td><td>NA - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sangkhu</td><td>17 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Indra Hang Subba</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>DARAMDIN</td><td>Okhrey</td><td>19 Oct 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Indra Hang Subba</td><td>NA - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Bongten</td><td>19 Oct 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Indra Hang Subba</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Radhukhanu</td><td>07 Nov 2023</td><td>6000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Hee</td><td>07 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>KALUK</td><td>Rinchenpong</td><td>07 Nov 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR PAKYONG_IDA</td><td>NA</td><td>NA</td><td>NANDOK</td><td>Assam</td><td>07 Nov 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Indra Hang Subba</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Maneybong</td><td>07 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Indra Hang Subba</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Radhukhanu</td><td>07 Nov 2023</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Lungzik</td><td>07 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Indra Hang Subba</td><td>NA - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sardong</td><td>07 Nov 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Sardong</td><td>07 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>DENTAM</td><td>Hee</td><td>07 Nov 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>Gangtok (M Corp.)</td><td>Lower Sichey Ward</td><td>NA</td><td>NA</td><td>27 Nov 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Indra Hang Subba</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Repair and Renovation</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR MANGAN_IDA</td><td>NA</td><td>NA</td><td>Chungthang</td><td>Lachung</td><td>18 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>Soreng</td><td>Soreng</td><td>18 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Indra Hang Subba</td><td>NA - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR SORENG_IDA</td><td>NA</td><td>NA</td><td>Soreng</td><td>Dodak</td><td>20 Jan 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Indra Hang Subba</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Repair and Renovation</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR EAST DISTRICT_IDA</td><td>NA</td><td>NA</td><td>Gangtok</td><td>Luing</td><td>22 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Indra Hang Subba</td><td>NA - Construction of buildings for cr&#232;ches and anganwadies</td><td>Normal/Others</td><td>Sikkim</td><td>SIKKIM</td><td>DISTRICT COLLECTOR GYALSHING_IDA</td><td>NA</td><td>NA</td><td>Dentam</td><td>Begha</td><td>19 Feb 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,205 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAMRUP METROPOLITAN_IDA</td><td>Guwahati</td><td>50</td><td>NA</td><td>NA</td><td>22 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>Golaghat</td><td>13</td><td>NA</td><td>NA</td><td>22 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAMRUP METROPOLITAN_IDA</td><td>Guwahati</td><td>12</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Development of playfields and sports grounds</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Bongaigaon_IDA</td><td>Abhayapuri</td><td>23</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Bongaigaon_IDA</td><td>Abhayapuri</td><td>3</td><td>NA</td><td>NA</td><td>23 Sep 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>SHRI Birendra Prasad Baishya</td><td>WS/MP073/2023-2024/49257 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAMRUP_IDA</td><td>NA</td><td>NA</td><td>BIHDIA -JAJIKONA</td><td>Baregaon</td><td>14 Nov 2023</td><td>250000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER KAMRUP_IDA</td><td>NA</td><td>NA</td><td>BIHDIA -JAJIKONA</td><td>Dagaon</td><td>14 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>SHRI Birendra Prasad Baishya</td><td>WS/MP073/2023-2024/49265 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER CACHAR_IDA</td><td>Silchar</td><td>24 (OLD)</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SONITPUR_IDA</td><td>Tezpur</td><td>4</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SONITPUR_IDA</td><td>Tezpur</td><td>5</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER DARRANG_IDA</td><td>Mangaldoi</td><td>9</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SONITPUR_IDA</td><td>Tezpur</td><td>17</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER DARRANG_IDA</td><td>Kharupatia</td><td>6</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of toilet blocks</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER SONITPUR_IDA</td><td>Tezpur</td><td>4</td><td>NA</td><td>NA</td><td>14 Nov 2023</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Goalpara_IDA</td><td>NA</td><td>NA</td><td>RONGJULI</td><td>Dhupdhara Pt-I</td><td>16 Nov 2023</td><td>2400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Goalpara_IDA</td><td>NA</td><td>NA</td><td>RONGJULI</td><td>Piplibari</td><td>16 Nov 2023</td><td>2300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Goalpara_IDA</td><td>NA</td><td>NA</td><td>RONGJULI</td><td>Piplibari</td><td>16 Nov 2023</td><td>2280000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Goalpara_IDA</td><td>NA</td><td>NA</td><td>RONGJULI</td><td>Dhupdhara Pt-I</td><td>16 Nov 2023</td><td>2320000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Goalpara_IDA</td><td>NA</td><td>NA</td><td>RONGJULI</td><td>Majpara Khamar</td><td>16 Nov 2023</td><td>2400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Goalpara_IDA</td><td>NA</td><td>NA</td><td>RONGJULI</td><td>Dhupdhara Pt-I</td><td>16 Nov 2023</td><td>2300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER NALBARI_IDA</td><td>NA</td><td>NA</td><td>BARKHETRI</td><td>Mukalmua</td><td>14 Dec 2023</td><td>5000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>SHRI Birendra Prasad Baishya</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARPETA_IDA</td><td>NA</td><td>NA</td><td>Barpeta</td><td>Joti Gaon</td><td>26 Dec 2023</td><td>1100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>Jorhat</td><td>4</td><td>NA</td><td>NA</td><td>13 Jan 2024</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER BARPETA_IDA</td><td>Barpeta</td><td>9</td><td>NA</td><td>NA</td><td>13 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER DIBRUGARH_IDA</td><td>NA</td><td>NA</td><td>Dibrugarh West</td><td>Dhakeri Gaon</td><td>19 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for training institutions</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER LAKHIMPUR_IDA</td><td>NA</td><td>NA</td><td>Kadam</td><td>Dakhin Rupahi</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Teok</td><td>Meleng Grant Gaon</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Titabor</td><td>No.44 Turung Grant</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Biswanath_IDA</td><td>NA</td><td>NA</td><td>Biswanath</td><td>Salai Khati</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Titabor</td><td>Karangakhat Gaon</td><td>21 Jan 2024</td><td>650000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Koibarta Gaon</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Mariani</td><td>Darikial Gaon</td><td>21 Jan 2024</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Gajpuria Gaon</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for training institutions</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Mariani</td><td>Duklangia (Doklongia Habi Gaon)</td><td>21 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Mariani</td><td>Duklangia (Doklongia Habi Gaon)</td><td>21 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Sivsagar_IDA</td><td>NA</td><td>NA</td><td>Dimow</td><td>Amulaguri Bagisa</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for community cultural activities</td><td>Repair and Renovation</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Kumar Gaon</td><td>21 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for training institutions</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Hatigarh Grant</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of water tanks</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat West</td><td>Charaibahi Gaon</td><td>21 Jan 2024</td><td>250000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Hatigarh Grant</td><td>21 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Mariani</td><td>Mautjoli Gaon</td><td>21 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for sports facilities</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Duliapam Gaon</td><td>21 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Teok</td><td>Mahera Gaon</td><td>21 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Sivsagar_IDA</td><td>NA</td><td>NA</td><td>Dimow</td><td>Rajabari Bagisa</td><td>22 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>NA</td><td>NA</td><td>Bokakhat</td><td>Borjuri Gaon</td><td>23 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for sports facilities</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>NA</td><td>NA</td><td>Bokakhat</td><td>Diring T.E.</td><td>23 Jan 2024</td><td>800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>NA</td><td>NA</td><td>Khumtai</td><td>Borpholong Habi</td><td>23 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Sivsagar_IDA</td><td>NA</td><td>NA</td><td>Nazira</td><td>Nimaigorh Habi</td><td>23 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER NOWGONG_IDA</td><td>Dhing</td><td>3</td><td>NA</td><td>NA</td><td>23 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER NOWGONG_IDA</td><td>Dhing</td><td>4</td><td>NA</td><td>NA</td><td>23 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of shelters for animals</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>NA</td><td>NA</td><td>Golaghat</td><td>Banua Tangia</td><td>23 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Titabor</td><td>Balijan Gaon</td><td>24 Jan 2024</td><td>1146000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Teok</td><td>Meteli Gaon</td><td>24 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Mariani</td><td>Deberapar Gaon</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Cinnamara Grant (Og)</td><td>24 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Bali Chapari Gaon</td><td>24 Jan 2024</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Dulia Gaon</td><td>24 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Sivsagar_IDA</td><td>NA</td><td>NA</td><td>Nazira</td><td>Sontok Grant</td><td>24 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>Jorhat</td><td>13</td><td>NA</td><td>NA</td><td>24 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat West</td><td>Sarbaibandha (Og)</td><td>24 Jan 2024</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>Sarupathar</td><td>10</td><td>NA</td><td>NA</td><td>25 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of public libraries and reading rooms</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat West</td><td>Khangia Gaon</td><td>25 Jan 2024</td><td>700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Jorhat East</td><td>Duliapam Gaon</td><td>26 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER Udalguri_IDA</td><td>NA</td><td>NA</td><td>Mazbat</td><td>No.2 Mazbat T.E.</td><td>26 Jan 2024</td><td>1500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER JORHAT_IDA</td><td>NA</td><td>NA</td><td>Mariani</td><td>Sotai Shah Bagisa</td><td>26 Jan 2024</td><td>969000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>SHRI Kamakhya Prasad Tasa</td><td>NA - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Assam</td><td>Sitting Rajya Sabha</td><td>Deputy Commissioner Golaghat_IDA</td><td>Golaghat</td><td>13</td><td>NA</td><td>NA</td><td>27 Jan 2024</td><td>2200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

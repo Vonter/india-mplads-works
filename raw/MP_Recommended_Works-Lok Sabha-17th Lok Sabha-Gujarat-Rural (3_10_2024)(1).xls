@@ -1,0 +1,127 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2284 - Construction of foot over bridge (FOB)</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>NA</td><td>NA</td><td>NASWADI</td><td>Haripura (Nasvadi)</td><td>05 Jul 2023</td><td>450000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2286 - Construction of Footpaths/Pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>NA</td><td>NA</td><td>NASWADI</td><td>Jakshi</td><td>05 Jul 2023</td><td>250000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2287 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>05 Jul 2023</td><td>300000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2288 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR CHHOTA UDEPUR_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>NA</td><td>05 Jul 2023</td><td>250000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2493 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>NA</td><td>NA</td><td>DABHOI</td><td>Parikha</td><td>06 Jul 2023</td><td>300000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2496 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>NA</td><td>NA</td><td>DABHOI</td><td>Thikariya</td><td>06 Jul 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Smt Gitaben Vajesingbhai Rathva (17th Lok Sabha)</td><td>WS/MP328/2023-2024/2552 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>CHHOTA UDAIPUR(ST)</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>NA</td><td>NA</td><td>DABHOI</td><td>Hansapura</td><td>06 Jul 2023</td><td>300000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/6748 - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Amodara</td><td>28 Jul 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/6750 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Jamtha</td><td>28 Jul 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/6752 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Rampur (Vadagam)</td><td>28 Jul 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/6753 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Bajipura</td><td>28 Jul 2023</td><td>150000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/6754 - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Navalpur</td><td>28 Jul 2023</td><td>150000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/7204 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>BAYAD</td><td>Vasna Mota</td><td>31 Jul 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/7216 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>BAYAD</td><td>Totu</td><td>31 Jul 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Smt Ranjanben Dhananjay Bhatt(17th Lok Sabha)</td><td>WS/MP589/2023-2024/8007 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Gujarat</td><td>VADODARA</td><td>DISTRICT COLLECTOR VADODARA_IDA</td><td>NA</td><td>NA</td><td>WAGHODIA</td><td>Amreshwar</td><td>04 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15011 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Chikhodra</td><td>01 Sep 2023</td><td>495000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15012 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Chikhodra</td><td>01 Sep 2023</td><td>495000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15014 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Samarkha</td><td>01 Sep 2023</td><td>400000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15015 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Napad Vanto</td><td>01 Sep 2023</td><td>75000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15016 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Samarkha</td><td>01 Sep 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15017 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Khanpur</td><td>01 Sep 2023</td><td>75000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15018 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Khanpur</td><td>01 Sep 2023</td><td>75000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15019 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Khanpur</td><td>01 Sep 2023</td><td>150000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15021 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Samarkha</td><td>01 Sep 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15022 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Samarkha</td><td>01 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15498 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>SOJITRA</td><td>Deva Talpad</td><td>02 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/15499 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>SOJITRA</td><td>Deva Talpad</td><td>02 Sep 2023</td><td>150000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/16362 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>TARAPUR</td><td>Khakhsar</td><td>04 Sep 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/22364 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>NA</td><td>NA</td><td>LATHI</td><td>Ambardi</td><td>18 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/24323 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>NA</td><td>NA</td><td>VIRAMGAM</td><td>Vanthal</td><td>21 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/24328 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>NA</td><td>NA</td><td>VIRAMGAM</td><td>Moti Kishol</td><td>21 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/24666 - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>CHOTILA</td><td>Bhojpari</td><td>22 Sep 2023</td><td>200000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/24696 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR SURENDRANAGAR_IDA</td><td>NA</td><td>NA</td><td>THANGADH</td><td>Morthala</td><td>22 Sep 2023</td><td>300000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/25009 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>BAYAD</td><td>Vasadara</td><td>23 Sep 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/25010 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>BAYAD</td><td>Vasadara</td><td>23 Sep 2023</td><td>250000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/25067 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Vadagam</td><td>23 Sep 2023</td><td>100000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Dipsinh Shankarsinh Rathod</td><td>WS/MP576/2023-2024/25097 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>SABARKANTHA</td><td>DISTRICT COLLECTOR ARVALLI_IDA</td><td>NA</td><td>NA</td><td>DHANSURA</td><td>Rajpur (Vadagam)</td><td>23 Sep 2023</td><td>150000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Naranbhai Bhikhabhai Kachhadiya</td><td>WS/MP580/2023-2024/46182 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>AMRELI</td><td>DISTRICT COLLECTOR AMRELI_IDA</td><td>NA</td><td>NA</td><td>SAVERKUNDLA</td><td>Charkhadiya</td><td>06 Nov 2023</td><td>350000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Mitesh Rameshbhai Bakabhai Patel</td><td>WS/MP579/2023-2024/46463 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Gujarat</td><td>ANAND</td><td>District Collector ANAND_IDA</td><td>NA</td><td>NA</td><td>ANAND</td><td>Tarnol</td><td>06 Nov 2023</td><td>499000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Dr Mahendrabhai Munjapara (17th Lok Sabha)</td><td>WS/MP326/2023-2024/56187 - Providing drains and gutters for public drainage</td><td>Normal/Others</td><td>Gujarat</td><td>SURENDRANAGAR</td><td>DISTRICT COLLECTOR AHMADABAD_IDA</td><td>NA</td><td>NA</td><td>MANDAL</td><td>Mandal</td><td>04 Dec 2023</td><td>250000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr>
+	</table>
+</div>

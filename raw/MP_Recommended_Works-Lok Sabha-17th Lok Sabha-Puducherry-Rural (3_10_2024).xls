@@ -1,0 +1,16 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Vaithilingam Ve(17th Lok Sabha)</td><td>NA - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Puducherry</td><td>Puducherry</td><td>PROJECT DIRECTOR RDA PUDUCHERRY_IDA</td><td>NA</td><td>NA</td><td>ARIANKUPPAM</td><td>Karikkalampakkam</td><td>14 Dec 2023</td><td>350000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Vaithilingam Ve(17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Puducherry</td><td>Puducherry</td><td>PROJECT DIRECTOR RDA PUDUCHERRY_IDA</td><td>NA</td><td>NA</td><td>ARIANKUPPAM</td><td>Ariyankuppam</td><td>15 Dec 2023</td><td>3500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Vaithilingam Ve(17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Puducherry</td><td>Puducherry</td><td>PROJECT DIRECTOR RDA PUDUCHERRY_IDA</td><td>NA</td><td>NA</td><td>Puducherry Taluk</td><td>Thimmanaickenpalayam</td><td>29 Dec 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

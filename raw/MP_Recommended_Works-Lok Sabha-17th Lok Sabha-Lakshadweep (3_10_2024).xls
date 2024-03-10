@@ -1,0 +1,133 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>Chetlat</td><td>17 Aug 2023</td><td>6630896</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>Kadmat (CT)</td><td>04 Sep 2023</td><td>1063770</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>Agatti</td><td>04 Sep 2023</td><td>14691000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>Chetlat</td><td>04 Sep 2023</td><td>12095000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>NA</td><td>Kadmat (CT)</td><td>04 Sep 2023</td><td>1099760</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA -  Laying of synthetic turfs for hockey and football</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kiltan</td><td>Kiltan</td><td>08 Sep 2023</td><td>10791995</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Agatti</td><td>Agatti</td><td>08 Sep 2023</td><td>4252761</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kalpeni</td><td>Kalpeni (Ct)</td><td>08 Sep 2023</td><td>646640</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Andrott</td><td>Andrott (Ct)</td><td>08 Sep 2023</td><td>28202000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Installation of multi-gym equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Andrott</td><td>Andrott (Ct)</td><td>08 Sep 2023</td><td>2458500</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>2500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>260000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>900000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>100000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>30000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Andrott</td><td>Andrott (Ct)</td><td>08 Sep 2023</td><td>145000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Andrott</td><td>Andrott (Ct)</td><td>08 Sep 2023</td><td>400000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>420000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of ambulances (Four, three and two wheelers)</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>6000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>2160000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>150000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>132000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>300000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>360000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Minicoy</td><td>Minicoy (CT)</td><td>08 Sep 2023</td><td>177000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kalpeni</td><td>Kalpeni (Ct)</td><td>08 Sep 2023</td><td>5192041</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Provision of escalator and travellators for public use</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>08 Sep 2023</td><td>2830800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>12 Sep 2023</td><td>7999986</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>12 Sep 2023</td><td>10430000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kalpeni</td><td>Kalpeni (Ct)</td><td>18 Sep 2023</td><td>3271600</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Repair and Renovation</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kadmat</td><td>Kadmat (Ct)</td><td>18 Sep 2023</td><td>2270688</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Amini</td><td>Amini (Ct)</td><td>18 Sep 2023</td><td>4509950</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>25 Sep 2023</td><td>2780000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Kavaratti</td><td>Kavaratti (Ct)</td><td>25 Sep 2023</td><td>69900</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of hospital equipment</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Minicoy</td><td>Minicoy (CT)</td><td>25 Sep 2023</td><td>750000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Lighting of public spaces</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Minicoy</td><td>Minicoy (CT)</td><td>25 Sep 2023</td><td>1004103</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Faizal PP Mohammed(17th Lok Sabha)</td><td>NA - Purchase of IT systems, including hardware and software for educational purposes</td><td>Normal/Others</td><td>Lakshadweep</td><td>LAKSHADWEEP(ST)</td><td>COLLECTOR CUM DEV COMMISSIONER LAKSHADWEEP_IDA</td><td>NA</td><td>NA</td><td>Amini</td><td>Amini (Ct)</td><td>25 Sep 2023</td><td>1140000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

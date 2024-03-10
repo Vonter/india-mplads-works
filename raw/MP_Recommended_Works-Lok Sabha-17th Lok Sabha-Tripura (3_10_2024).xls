@@ -1,0 +1,502 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/510 - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Manu</td><td>Manu</td><td>01 Jun 2023</td><td>5908000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/511 - Providing garbage collection and disposal systems</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Dumburnagar</td><td>Paschim Gandachhera</td><td>01 Jun 2023</td><td>5900000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/512 - Providing garbage collection and disposal systems</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Chawmanu</td><td>Paschim Chhamanu</td><td>01 Jun 2023</td><td>1475000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/513 - Providing garbage collection and disposal systems</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Manu</td><td>Manu</td><td>01 Jun 2023</td><td>5100000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/514 - Providing garbage collection and disposal systems</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Dumburnagar</td><td>Paschim Gandachhera</td><td>01 Jun 2023</td><td>5400000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/515 - Purchase of sports equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Ambassa</td><td>Kulai</td><td>01 Jun 2023</td><td>7500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/516 - Purchase of sports equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Manu</td><td>Manu</td><td>01 Jun 2023</td><td>7500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/517 - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Manu</td><td>Manu</td><td>01 Jun 2023</td><td>8500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/518 - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Chawmanu</td><td>Paschim Chhamanu</td><td>01 Jun 2023</td><td>8500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/519 - Construction of water tanks</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Manu</td><td>Manu</td><td>01 Jun 2023</td><td>10500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/520 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Manu</td><td>Longtarai Reserve Forest</td><td>02 Jun 2023</td><td>2179705</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/8537 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE and COLLECTOR GOMATI DISTRICT UDAIPUR_IDA</td><td>NA</td><td>NA</td><td>Amarpur</td><td>Ghungia</td><td>08 Aug 2023</td><td>3000000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Rebati Tripura</td><td>NA - Street lights</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Salema</td><td>Kachuchhera</td><td>13 Aug 2023</td><td>539900</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/9153 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>Ambassa Municipal Council</td><td>III</td><td>NA</td><td>NA</td><td>14 Aug 2023</td><td>2933141</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/10265 - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE and COLLECTOR GOMATI DISTRICT UDAIPUR_IDA</td><td>NA</td><td>NA</td><td>Amarpur</td><td>Natun bazar</td><td>17 Aug 2023</td><td>6995000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Rebati Tripura</td><td>WS/MP463/2023-2024/10266 - Purchase of furniture and fixtures for educational purposes</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE and COLLECTOR GOMATI DISTRICT UDAIPUR_IDA</td><td>NA</td><td>NA</td><td>Amarpur</td><td>Natun bazar</td><td>17 Aug 2023</td><td>8500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Mohanpur</td><td>07 Oct 2023</td><td>1200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Mohanpur</td><td>07 Oct 2023</td><td>1200000</td><td>Rejected by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Bishalgarh</td><td>Madhupur</td><td>07 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SOUTH TRIPURA DISTRICT_IDA</td><td>Santirbazar Municipal Council</td><td>1</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>2214500</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - 20 Mtr High Mast National Flag with Light</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SOUTH TRIPURA DISTRICT_IDA</td><td>Belonia Municipal Council</td><td>Muhurighat</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>1700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - 20 Mtr High Mast National Flag</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Kathalia</td><td>Mahespur</td><td>09 Oct 2023</td><td>1700000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Badharghat</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>1800000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>Melaghar Municipal Council</td><td>6</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Renovation of ponds and lakes</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>Bishalgarh Municipal Council</td><td>7</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of buildings for community cultural activities</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Kathalia</td><td>Mahespur</td><td>09 Oct 2023</td><td>2600000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>18</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>1348700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Repair and Renovation</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>36</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>3088218</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of community centers and community halls</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>26</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>1127450</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>27</td><td>NA</td><td>NA</td><td>09 Oct 2023</td><td>636900</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installation of fixed garden gym equipment</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Mohanpur</td><td>14 Oct 2023</td><td>1200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Paschim Simna</td><td>14 Oct 2023</td><td>2497500</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>33</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of additional rooms and halls in the existing public and community building</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SOUTH TRIPURA DISTRICT_IDA</td><td>NA</td><td>NA</td><td>Bharat Chandra Nagar</td><td>Ishanchandranagar</td><td>14 Oct 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>34</td><td>Rebati Tripura</td><td>NA - Purchase of smart boards, visual display units and projectors</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Durgachowmuhani</td><td>Chotosurma</td><td>15 Oct 2023</td><td>6752000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>35</td><td>Rebati Tripura</td><td>NA - Street lights</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA EAST(ST)</td><td>DISTRICT MAGISTRATE DHALAI_IDA</td><td>NA</td><td>NA</td><td>Ambassa</td><td>Kulai</td><td>15 Oct 2023</td><td>431920</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>36</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Bamutia</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>37</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Laxmilunga</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>38</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Anandanagar</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>39</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Bikramnagar</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>40</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Ishanchandranagar</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>41</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Dukli</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>42</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Hezamara</td><td>Chandpur</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>43</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Hezamara</td><td>Noagaon</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>44</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Hezamara</td><td>Kamukchhera</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>45</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Hezamara</td><td>Surendranagar</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>46</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Fatikchhera</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>47</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Kalachhera</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>48</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Khengrai</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>49</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Harbhang</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>50</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Patnipara</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>51</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Wakkinagar</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>52</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Belbari</td><td>Belbari</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>53</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Belbari</td><td>Belbari</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>54</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Belbari</td><td>Belbari</td><td>19 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>55</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Anandanagar</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>56</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Bamutia</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>57</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Mandainagar</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>58</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Belbari</td><td>Champaknagar</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>59</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Gandhigram</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>60</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Kanchanmala</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>61</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Mohanpur</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>62</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Mandainagar</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>63</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Narsingarh</td><td>19 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>64</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Narsingarh</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>65</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Bamutia</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>66</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Dukli</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>67</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Old Agartala</td><td>Purba Noagaon</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>68</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Srinagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>69</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Dukli</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>70</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Dukli</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>71</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Laxmilunga</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>72</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Bamutia</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>73</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Bamutia</td><td>Bamutia</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>74</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Old Agartala</td><td>Briddhanagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>75</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Old Agartala</td><td>Purba Noagaon</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>76</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Old Agartala</td><td>Radhakishorenagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>77</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Old Agartala</td><td>Briddhanagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>78</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Jirania</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>79</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Purba Barjulai</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>80</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Purba Debandranagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>81</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Jirania</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>82</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Charipara</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>83</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Ishanchandranagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>84</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Pandab Pur</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>85</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Dukli</td><td>Dukli</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>86</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Patnipara</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>87</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Lakshmipur</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>88</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mandwai</td><td>Mandainagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>89</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Belbari</td><td>Janmejoynagar</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>90</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Belbari</td><td>Radhapur</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>91</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Hezamara</td><td>Barkanthalia</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>92</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Purchase of non-conventional energy system and devices for community use</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Hezamara</td><td>Chandpur</td><td>20 Dec 2023</td><td>205700</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>93</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>29</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>94</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>41</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>95</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>6</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>96</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Ranirbazar Municipal Council</td><td>1</td><td>NA</td><td>NA</td><td>20 Dec 2023</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>97</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Mohanpur</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>98</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Anandanagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>99</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Kanchanmala</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>100</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Champaknagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>101</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Mandainagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>102</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Bamutia</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>103</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Bamutia</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>104</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Narsingarh</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>105</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 2</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>106</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>3</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>107</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 3</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>108</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 17</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>109</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 17</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>110</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 13</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>111</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 21</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>112</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 22</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>113</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 15</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>114</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 25</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>115</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 28</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>116</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Madhuban</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>117</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Charipara</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>118</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Anandanagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>119</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Surendranagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>120</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Bankimnagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>121</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Purba Debandranagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>122</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Uttar Debendra Chandra Nagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>123</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Radhapur</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>124</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Bamutia</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>125</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Barjala</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>126</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Mohanpur</td><td>Taranagar</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>127</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Jirania</td><td>Jirania</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>128</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>Ward No 15</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>129</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>wards no 13</td><td>NA</td><td>NA</td><td>23 Dec 2023</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>130</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of roads, link roads, pathways or any other road with or without drainage system</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR GOMATI DISTRICT UDAIPUR_IDA</td><td>NA</td><td>NA</td><td>Udaipur</td><td>Killa</td><td>12 Jan 2024</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>131</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Kanthalia</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>132</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>NA</td><td>NA</td><td>Sadar</td><td>Khayerpur</td><td>12 Jan 2024</td><td>1200000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>133</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>20</td><td>NA</td><td>NA</td><td>12 Jan 2024</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>134</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE WEST TRIPURA_IDA</td><td>Agartala Municipal Corporation</td><td>20, Dhaleshwar</td><td>NA</td><td>NA</td><td>12 Jan 2024</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>135</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Bishalgarh</td><td>Madhupur</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>136</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Boxanagar</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>137</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Dhanpur</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>138</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Kamalnagar</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>139</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Kanthalia</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>140</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Matinagar</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>141</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Nidaya</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>142</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Sonamura</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>143</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Jampuijala</td><td>Jampuijala</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>144</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Jampuijala</td><td>Paschim Takarjala</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>145</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Jampuijala</td><td>Dayaram Para</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>146</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Uttar Taibandal</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>147</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Paschim Nalchar</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>148</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Taksapara</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>149</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Jagatrampur</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>150</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Bishalgarh</td><td>Bishalgarh</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>151</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Installing community drinking water plants</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Bishalgarh</td><td>Bishalgarh</td><td>21 Jan 2024</td><td>391000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>152</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Boxanagar</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>153</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Dhanpur</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>154</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Kanthalia</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>155</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Matinagar</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>156</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Nidaya</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>157</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Sonamura</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>158</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Taksapara</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>159</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Jampuijala</td><td>Paschim Takarjala</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>160</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Jampuijala</td><td>Dayaram Para</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>161</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Jampuijala</td><td>Jampuijala</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>162</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Kamalnagar</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>163</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Bishalgarh</td><td>Madhupur</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>164</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Dakshin Taibandal</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>165</td><td>Ms Pratima Bhoumik(17th Lok Sabha)</td><td>NA - Construction of rooms and facilities for hospitals, FWC , PHC Centers and ANM centers</td><td>Normal/Others</td><td>Tripura</td><td>TRIPURA WEST</td><td>DISTRICT MAGISTRATE and COLLECTOR SIPAHIJALA_IDA</td><td>NA</td><td>NA</td><td>Sonamura</td><td>Jagatrampur</td><td>21 Jan 2024</td><td>327800</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr>
+	</table>
+</div>

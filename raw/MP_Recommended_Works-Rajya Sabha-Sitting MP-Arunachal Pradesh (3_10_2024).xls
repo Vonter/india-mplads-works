@@ -1,0 +1,97 @@
+<div>
+	<table class="Gridview" cellspacing="0" cellpadding="3" rules="all" id="body_GridView1" style="background-color:White;border-color:#E7E7FF;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+		<tr style="color:#F7F7F7;background-color:#4A3C8C;font-weight:bold;">
+			<th scope="col">S.No.</th><th scope="col">MP NAME</th><th scope="col">WORK</th><th scope="col">CATEGORY</th><th scope="col">STATE</th><th scope="col">CONSTITUENCY</th><th scope="col">IDA</th><th scope="col">CITY</th><th scope="col">WARD</th><th scope="col">BLOCK</th><th scope="col">VILLAGE</th><th scope="col">RECOMMENDED DATE</th><th scope="col">ALLOCATION AMOUNT</th><th scope="col">IDA APPROVAL</th><th scope="col">STATUS</th>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>1</td><td>Nabam Rebia (SRS)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>Deputy Commisioner Upper Subansiri_IDA</td><td>NA</td><td>NA</td><td>TALIHA</td><td>Taliha H.Q.</td><td>07 Aug 2023</td><td>3000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>2</td><td>Nabam Rebia (SRS)</td><td>NA - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER WEST SIANG_IDA</td><td>NA</td><td>NA</td><td>LIROMOBA-YOMCHA</td><td>Liromoba H.Q.</td><td>07 Aug 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>3</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8342 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Balijan H.Q.</td><td>07 Aug 2023</td><td>5000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>4</td><td>Nabam Rebia (SRS)</td><td>NA - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>Deputy Commisioner West Kameng_IDA</td><td>NA</td><td>NA</td><td>DIRANG</td><td>Dirang Village</td><td>07 Aug 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>5</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8344 - Construction of stadiums</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>ITANAGAR</td><td>Itanagar</td><td>NA</td><td>NA</td><td>07 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>6</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8346 - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Mani</td><td>07 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>7</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8347 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Balijan H.Q.</td><td>08 Aug 2023</td><td>3000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>8</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8348 - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Balijan H.Q.</td><td>08 Aug 2023</td><td>5000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>9</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8349 - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>KIMIN</td><td>KIMIN</td><td>NA</td><td>NA</td><td>08 Aug 2023</td><td>4000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>10</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8350 - Construction of footpaths and pedestrian ways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Sumukjuli</td><td>08 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>11</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8351 - Construction of community centers and community halls</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Sangdupota</td><td>08 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>12</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8352 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Balijan H.Q.</td><td>08 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>13</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8353 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Yadang - II</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>14</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8354 - Construction of public toilets and bathrooms</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Nonpu</td><td>08 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>15</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8355 - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Poma</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Completed
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>16</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8356 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Denka</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>17</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8357 - Installing tube-wells and borewells</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Nonpu</td><td>08 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>18</td><td>Nabam Rebia (SRS)</td><td>NA - Construction of boundary walls of existing public and community buildings</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>Naharlagun</td><td>Naharlagun</td><td>NA</td><td>NA</td><td>08 Aug 2023</td><td>2000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>19</td><td>Nabam Rebia (SRS)</td><td>NA - Providing CCTV camera system for security of public areas</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Balijan H.Q.</td><td>08 Aug 2023</td><td>1000000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>20</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8361 - Improvement of electricity distribution infrastructure</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>KIMIN</td><td>Lora</td><td>08 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>21</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8362 - Construction of rooms and halls in school and colleges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Dariabil</td><td>08 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>22</td><td>Nabam Rebia (SRS)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>ITANAGAR</td><td>VIVEK VIHAR</td><td>NA</td><td>NA</td><td>08 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>23</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8364 - Street lights</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Gumto</td><td>08 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>&nbsp;</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>24</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8365 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Tubung</td><td>08 Aug 2023</td><td>2500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>25</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8366 - Providing supply pipelines for drinking water</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Sopo</td><td>08 Aug 2023</td><td>1500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>26</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8367 - Construction of roads, approach roads, link roads and pathways</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>BALIJAN</td><td>Sangdupota</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>27</td><td>Nabam Rebia (SRS)</td><td>NA - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>Deputy Commisioner Shi Yomi_IDA</td><td>NA</td><td>NA</td><td>MECHUKA-TATO</td><td>Tato H.Q. (including Labour Camp)</td><td>08 Aug 2023</td><td>500000</td><td>Action Pending</td><td>Unsanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>28</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8369 - Construction of public irrigation facilities</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>SAGALEE</td><td>Old Market Sagalee - I</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>29</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8370 - Construction of culverts and bridges</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>Banderdewa 5/1</td><td>NA</td><td>NA</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Ongoing
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>30</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/8509 - Construction of common work sheds/ common covered sitting area</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Rose</td><td>08 Aug 2023</td><td>500000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#E7E7FF;">
+			<td>31</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/13088 - Purchase of books for public libraries</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>DOIMUKH</td><td>YUPIA</td><td>NA</td><td>NA</td><td>25 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr><tr style="color:#4A3C8C;background-color:#F7F7F7;">
+			<td>32</td><td>Nabam Rebia (SRS)</td><td>WS/MP830/2023-2024/14073 - Construction of flood control embankments</td><td>Normal/Others</td><td>Arunachal Pradesh</td><td>Sitting Rajya Sabha</td><td>DEPUTY COMMISSIONER PAPUM PARE_IDA</td><td>NA</td><td>NA</td><td>DOIMUKH</td><td>Yupia</td><td>29 Aug 2023</td><td>1000000</td><td>Approved by IDA</td><td>Sanctioned
+</td>
+		</tr>
+	</table>
+</div>
