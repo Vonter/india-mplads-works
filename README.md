@@ -4,6 +4,8 @@ Dataset of spending on MPLADS developmental works by Indian parliamentary repres
 
 Browse the dataset here: <https://flatgithub.com/Vonter/india-mplads-works?filename=csv/MPLADS.csv&stickyColumnName=MP%20NAME&sort=RECOMMENDED%20DATE%2Cdesc>.
 
+**Note: The MPLADS site contains MPLADS reports from 1st April 2023 onwards.**
+
 ## Scripts
 
 - [fetch.py](fetch.py): Fetches the raw HTML pages from [the MPLADS site](http://164.100.68.116/mpladssbi/Default.aspx)
